@@ -1,0 +1,43 @@
+CAPPTUS — ICON & EMOJI DESIGN SYSTEM v1.0
+30 September 2026
+
+Open index.html. The previews are embedded and work offline. Keep the assets folder alongside it for downloads.
+
+CONTENTS
+8 unchanged 1254x1254 transparent illustration PNGs (plus original logo).
+8 compact emoji SVG masters, each with transparent 128/256 PNG and a Limestone-tile 128 PNG for dark surfaces.
+16 editable interface SVGs on a 24x24 grid.
+Reference sheet as native SVG and PNG; tokens.json, tokens.css, catalog.json.
+
+MEANING
+reach / Explorar / Reach: New ideas, useful questions and discovery.
+bloom / Florecer / Bloom: Launches, appreciation or confirmed milestones.
+rooted / Sostener / Stay rooted: Support, continuity and ongoing care.
+connect / Conectar / Connect: Integration, collaboration and coordination.
+adapt / Encontrar camino / Find a way: Problem-solving, alternatives and adaptation.
+together / Crecer juntos / Grow together: Teamwork, partnership, welcome and collaboration.
+balance / Cuidar / Balance: Operations, review, quality and appreciation.
+horizon / Avanzar / New horizon: Roadmaps, completed phases and new beginnings.
+
+CONSTRUCTION
+UI: 24x24 grid, 2.2 stroke, round cap/join, 20/24/32 display sizes, 44x44 target.
+Compact: 64x64 grid, 3.2 stroke, 32 minimum, 48 preferred, 8 px surrounding clear space.
+Full artwork: preferably 128px or larger, never squeeze or crop.
+Full illustration PNGs have inherited tonal variations; compact SVGs use exact tokens.
+SVG strokes scale with their viewBox. Do not add non-scaling-stroke.
+
+ACCESSIBILITY
+Decorative image beside the same text: alt="". Meaningful standalone image: localized alt describing its purpose.
+Icon-only button: aria-label with its action; nested SVG aria-hidden="true".
+Never rely on blue, motion or the botanical picture alone for a status. Keep status in explicit text.
+Interface SVGs use currentColor when inline. An external img cannot inherit the surrounding CSS color.
+Keep illustrated assets in their original colors. Use the light-tile PNG on dark or unknown chat surfaces.
+
+MOTION
+One 240ms response; maximum scale 1.04. Reduced-motion mode is static. No idle loops.
+
+SHORTCODES
+Names such as :capptus-bloom: are proposed custom emoji names. They are not Unicode or installed in Slack, Teams or WhatsApp. Follow each destination's current upload requirements before importing; supplied files are general-purpose exports.
+
+PROVENANCE
+Original 8 illustrations were generated earlier with the built-in image tool and are preserved byte for byte. Logo is the user-supplied original. New compact SVGs and interface symbols are code-native vector artwork; the compact versions simplify the original motifs and are not vectorizations of the PNGs. No new image-generation model or outside brand assets were used.

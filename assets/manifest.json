@@ -1,0 +1,302 @@
+[
+  {
+    "path": "assets/applications/workshop-01.png",
+    "sha256": "0a861284da95888d381273d5fe67683878980bf076e46ed2c7aba006f1f4ca31"
+  },
+  {
+    "path": "assets/applications/workshop-02.png",
+    "sha256": "9d8c49d31b6b3f3a076640b13a88de9c4e5e6efd2b5a13d108e83af4efa740a9"
+  },
+  {
+    "path": "assets/applications/workshop-06.png",
+    "sha256": "b41173c2c99d323bd4dc4593c290485ae45eed2f1c64b405c5fd9706accfcb5f"
+  },
+  {
+    "path": "assets/applications/workshop-15.png",
+    "sha256": "72df0491e109584d472aeb2a1c541d07bb24d94863ed9f959c0bd06f0e1bb616"
+  },
+  {
+    "path": "assets/catalog.json",
+    "sha256": "b6ed6d3519210a7733d822fd04118b2ccaa26ed8f808a5fe8e18851fd112e635"
+  },
+  {
+    "path": "assets/emoji/adapt-128.png",
+    "sha256": "3fe7ff276ea441239122f9b55c586bc88c7282fd83ae528755e5ee6567d2da52"
+  },
+  {
+    "path": "assets/emoji/adapt-256.png",
+    "sha256": "15d08cd365b65b6ad8f34a7ff9680bb5792750e7c992e1ff621a9f1ad5952279"
+  },
+  {
+    "path": "assets/emoji/adapt-tile-128.png",
+    "sha256": "ad764203cec06aab98546da686845f1d9376ec56144a6e5f0f5a031915c0d1a2"
+  },
+  {
+    "path": "assets/emoji/adapt-tile.svg",
+    "sha256": "fc5f4795990fe2883490afdad506482cc92da61ac7bc1333ed30e89eb097fae2"
+  },
+  {
+    "path": "assets/emoji/adapt.svg",
+    "sha256": "6d17c6735c0b7562c056d44fe4ef911ff9b82e9b782d106e0afbf3e852206282"
+  },
+  {
+    "path": "assets/emoji/balance-128.png",
+    "sha256": "4ca508fb229b9a680192646febd3e0323416375c3f5f8d6c3a32a6ac410b1dd2"
+  },
+  {
+    "path": "assets/emoji/balance-256.png",
+    "sha256": "db93de3d30e1ecbbd9c4ae11fe05ae92246cc868d8319d3691cdf614f060a8be"
+  },
+  {
+    "path": "assets/emoji/balance-tile-128.png",
+    "sha256": "a561faa2fb0d833b4729a0a0eaca4048aae13ab8ffddbece1906bee9716c235e"
+  },
+  {
+    "path": "assets/emoji/balance-tile.svg",
+    "sha256": "0126aa00a38e6fe6ebcbcfacb1f7e693f01716915dbf4a8270bbb8884b675e5d"
+  },
+  {
+    "path": "assets/emoji/balance.svg",
+    "sha256": "262e00ab603db2e269b00ae87e70961d8a42bb6ad20206b5f96a2dbc9417c49d"
+  },
+  {
+    "path": "assets/emoji/bloom-128.png",
+    "sha256": "b854eece6afd403816ed67378298041058696bbdb03884c0fd74eebb4afa052d"
+  },
+  {
+    "path": "assets/emoji/bloom-256.png",
+    "sha256": "7d3c709a644adbca0297295d4eaddbfbef0e72043f053d420fac5a3e86787ef0"
+  },
+  {
+    "path": "assets/emoji/bloom-tile-128.png",
+    "sha256": "a4199859c1abaa68f06d50962a75074b09d1e0779ef193de33ebee3e69314aad"
+  },
+  {
+    "path": "assets/emoji/bloom-tile.svg",
+    "sha256": "bea2d80ef57a4dc39ed99442284a563b46dcfc4e451a3c279d90ac264bbfd3a4"
+  },
+  {
+    "path": "assets/emoji/bloom.svg",
+    "sha256": "f73e5e2b0f1a1495a6856528f005adf26d7cddbdd47985bc033a58e722ce1f5f"
+  },
+  {
+    "path": "assets/emoji/connect-128.png",
+    "sha256": "11a9c6ab254bacbda1a8771b766d73c39425482417f0652f2ac98ec1c694dde5"
+  },
+  {
+    "path": "assets/emoji/connect-256.png",
+    "sha256": "969a98246f1cc22174bb18f41c9c4906369a05e36feac8f2fb523ae79736b296"
+  },
+  {
+    "path": "assets/emoji/connect-tile-128.png",
+    "sha256": "2c08be9e78bf1c14670d27df4924f27da14e5e0c5bc76ce90b9eb6a4f5707787"
+  },
+  {
+    "path": "assets/emoji/connect-tile.svg",
+    "sha256": "cb7deb9a3c0566fa61acf6a6a86f3c2bcc68cb45b3d590293dcfcc8857014b7d"
+  },
+  {
+    "path": "assets/emoji/connect.svg",
+    "sha256": "1a45230bff31b6b6c2484faa63fa0a29b72c3b3240ebd2ff1cf8741739d6d56e"
+  },
+  {
+    "path": "assets/emoji/horizon-128.png",
+    "sha256": "843cc6e677edc2438abae140969aef6c0c8aa82aac2ad8647a845d0703a8a196"
+  },
+  {
+    "path": "assets/emoji/horizon-256.png",
+    "sha256": "e6e23210639f80298522db6578f3701a21599dc3ff50dcdbbab32a506d87f198"
+  },
+  {
+    "path": "assets/emoji/horizon-tile-128.png",
+    "sha256": "21af7e653791201e2dec435add1d5a1096899e306586cdac8352b93bac5c513a"
+  },
+  {
+    "path": "assets/emoji/horizon-tile.svg",
+    "sha256": "62d0aa5f50f67f5a234e2d1f62c2806de3930f5b8b333a2961f3ea9892e20b39"
+  },
+  {
+    "path": "assets/emoji/horizon.svg",
+    "sha256": "c96c3681b2667b5624e84901867ef976309cb15b7474c6592fdb2f370e401023"
+  },
+  {
+    "path": "assets/emoji/reach-128.png",
+    "sha256": "6a02ee55378d6f5cdbf47c77806ca62d9c50f1f8f008ea8f642522898b2f45fd"
+  },
+  {
+    "path": "assets/emoji/reach-256.png",
+    "sha256": "b49d6cd450bfa0f2ffb288e88c70a76b7e7bd721305a1ce455e534571a5bcebb"
+  },
+  {
+    "path": "assets/emoji/reach-tile-128.png",
+    "sha256": "114b07da777d484a6d8ba55ca009121354917939950273dfb5a5236449fef6ec"
+  },
+  {
+    "path": "assets/emoji/reach-tile.svg",
+    "sha256": "e469486b8f4fa0119151eaebcee2a665bc29b79b4dafbc7959b624c921eb3199"
+  },
+  {
+    "path": "assets/emoji/reach.svg",
+    "sha256": "503e07999cd9313b5527ee7efdf6c392b2e548521fce076e2fa48359322f431d"
+  },
+  {
+    "path": "assets/emoji/rooted-128.png",
+    "sha256": "1a80535b1ffe39d008e87680a0fa9a37828d2cea0483efc1a7e69091e526f55c"
+  },
+  {
+    "path": "assets/emoji/rooted-256.png",
+    "sha256": "576426b0ea55f95a1853c713c65ade66e746f73ddd1e022d3276141922d5a723"
+  },
+  {
+    "path": "assets/emoji/rooted-tile-128.png",
+    "sha256": "8e4c31fd222e73b382c2353da3f1ee28c2ace03e387c805da13412bdff533814"
+  },
+  {
+    "path": "assets/emoji/rooted-tile.svg",
+    "sha256": "a4acee87e8b31dedae40605e93dda5e5d9d5adc774052b00d2606d70a59d5e41"
+  },
+  {
+    "path": "assets/emoji/rooted.svg",
+    "sha256": "f997ad6ca6de01b9493be24f0f8e6e1465387b10c2452f8836ca5ff72d8cdb7d"
+  },
+  {
+    "path": "assets/emoji/together-128.png",
+    "sha256": "1f6d069123912f061e2f6980f7443a56820b545dd0ef928c3241a4c0f2da9469"
+  },
+  {
+    "path": "assets/emoji/together-256.png",
+    "sha256": "72204cb1a81d48007047ab244579112e0eead4543f85389285ad9e4867d08702"
+  },
+  {
+    "path": "assets/emoji/together-tile-128.png",
+    "sha256": "5e4f042b2ffda0eaf0bdafcd028184fe0f5710f9cb51ef6bf9001084657a469c"
+  },
+  {
+    "path": "assets/emoji/together-tile.svg",
+    "sha256": "578600feb4f1eba5ad54d0e969f603856c1d423d93d367121fc4945bfb2aaaf4"
+  },
+  {
+    "path": "assets/emoji/together.svg",
+    "sha256": "83b5d9ee584f58e781a99c0dfd8daafe421e416cf975a3e4f1d15391ecff912d"
+  },
+  {
+    "path": "assets/icons/arrow-left.svg",
+    "sha256": "dd10579a2e22f09764a340f78c9a75928a98fb8aabe91d13bb2f34f5102456e3"
+  },
+  {
+    "path": "assets/icons/arrow-right.svg",
+    "sha256": "59fe3f5eb667d00215f15c9252160a5c75cf51fb4e783d456b020f4920346999"
+  },
+  {
+    "path": "assets/icons/attention.svg",
+    "sha256": "976f680c13bbb20de0cf165ab94d94e957188f3bde3620c8f84f79f2309f0884"
+  },
+  {
+    "path": "assets/icons/check.svg",
+    "sha256": "4065075f1b9d001d8c9552b3e187a36ef0796a165186b37a81fe49190dfb9f9c"
+  },
+  {
+    "path": "assets/icons/clock.svg",
+    "sha256": "fc7a2d0751f3f96bd0831639ffafdc9e0ee7f88a0dfe65304519bc0fcb481b98"
+  },
+  {
+    "path": "assets/icons/close.svg",
+    "sha256": "9fba7eeec0a4865ba3157cf4e4fe5ae9860bbd2481bc2b15f8890f7249c528fa"
+  },
+  {
+    "path": "assets/icons/download.svg",
+    "sha256": "05ee792efb613d38ee558dce84581728e443f1eb8643b146b96d8b15dc552090"
+  },
+  {
+    "path": "assets/icons/external.svg",
+    "sha256": "7653da5f48cb6565c9ea7defc790a727273fddf75a711750a31d6b775d7ff3fa"
+  },
+  {
+    "path": "assets/icons/link.svg",
+    "sha256": "bc7c9f5aca99a21786528f32562baedc338a1b6ced22c8c40dda38d06aaa7bb4"
+  },
+  {
+    "path": "assets/icons/menu.svg",
+    "sha256": "f14c4689cf51afa40ac8149006baacb20bf4b4e0c2a4a638d06f4e7badfb12e0"
+  },
+  {
+    "path": "assets/icons/message.svg",
+    "sha256": "2532ecca46bc6c25c85db45755051d850e265d3284e98c44e22c11291f5d3b47"
+  },
+  {
+    "path": "assets/icons/pause.svg",
+    "sha256": "d6b24f2246a7bf284647676f841bc7b67d84d5d4080b751f05ca2494c8708094"
+  },
+  {
+    "path": "assets/icons/play.svg",
+    "sha256": "25b54bae6707af6479ad3bcbe7cc7df515286d679ea12dea88d2d7d4f2f26576"
+  },
+  {
+    "path": "assets/icons/plus.svg",
+    "sha256": "3c681098e33515fe3903f14989d8980bd6b1d666a42225692ac8381da72f5b6b"
+  },
+  {
+    "path": "assets/icons/refresh.svg",
+    "sha256": "7e58639a7cd9d6f77d52acc8f8975ffac48b9dc2d671952d894da1d5085be6b0"
+  },
+  {
+    "path": "assets/icons/search.svg",
+    "sha256": "0018bae01d20134591517a38ed7e732005f8183841f72f0a95e0c3c1a644d458"
+  },
+  {
+    "path": "assets/illustrations/01-reach.png",
+    "sha256": "161a83d4c6c2313701aaa8a6383e54167f60e3e16109020f7676560695992b8a"
+  },
+  {
+    "path": "assets/illustrations/02-bloom.png",
+    "sha256": "5772cb3cdbd3d78b7e9de78a81248846f1d5b352160d64307e5db01daf8d1ff7"
+  },
+  {
+    "path": "assets/illustrations/03-stay-rooted.png",
+    "sha256": "592cb634bd97bbd5a925e24fafa12a0217f187d96cbc26bcf84440118631c30c"
+  },
+  {
+    "path": "assets/illustrations/04-connect.png",
+    "sha256": "43f3244eaaad0c56e4513e5829daea37f207fa16798172a790e6064f93352b0e"
+  },
+  {
+    "path": "assets/illustrations/05-find-a-way.png",
+    "sha256": "dd5dc58f3d57503be4e2dc5f1296eda5fa6232890ec0d182eb04c12709099a3b"
+  },
+  {
+    "path": "assets/illustrations/06-grow-together.png",
+    "sha256": "c4684054bab226b92e9bce465e21c68a4b85e81114c13a8f56c2bcf2c0412e16"
+  },
+  {
+    "path": "assets/illustrations/07-balance.png",
+    "sha256": "96eb1e9bd957e704bd6b18ace420c73e9f205340109277f2d7835c5683b2d1ab"
+  },
+  {
+    "path": "assets/illustrations/08-new-horizon.png",
+    "sha256": "e6c260cbb6f14219eba3d51cda2a0a5b7a9c96e5e9781adc4def76def9d0d629"
+  },
+  {
+    "path": "assets/logo/capptus-original.png",
+    "sha256": "55f5309be7b3d0e8c36c35c99188a98a6451e15c461bf03ea815af8fb2c73886"
+  },
+  {
+    "path": "assets/reference/icon-emoji-system.png",
+    "sha256": "1d5d789e015058a8109c42a2c7ee9ffd3f63afb189ecc6db078398c3a5b245fc"
+  },
+  {
+    "path": "assets/reference/living-oasis-moodboard-v3.png",
+    "sha256": "61249dbfe50e4a9648f11ec7e2e94585dcec28ddb135ec44dd9acd601540b215"
+  },
+  {
+    "path": "downloads/Capptus-Icon-Emoji-System.svg",
+    "sha256": "aee7bca2a5bba3bee2f4c9196525cf96dde1b23f556e220708349882e4cf2e3b"
+  },
+  {
+    "path": "downloads/Capptus-Icons-Emojis-v1.zip",
+    "sha256": "3f5babb6be4ae42d14dc9ea63a796c85fe7b92a71c538b5104e290b41cef6b24"
+  },
+  {
+    "path": "downloads/Capptus-The-Living-Oasis-Moodboard-v3.svg",
+    "sha256": "6acb4b6e3e251238a38f468dfc55606f04e1243efad56a506e5b346308d77ddf"
+  }
+]

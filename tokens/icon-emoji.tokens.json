@@ -1,0 +1,53 @@
+{
+  "version": "1.0.0",
+  "date": "2026-09-30",
+  "territory": "The Living Oasis",
+  "color": {
+    "ink": "#1B1B19",
+    "blue": "#008ED1",
+    "limestone": "#F8F7F3",
+    "gray": "#6D6E70",
+    "sand": "#D8C5AB",
+    "cactus": "#3B5146"
+  },
+  "interface": {
+    "grid": 24,
+    "stroke": 2.2,
+    "sizes": [
+      20,
+      24,
+      32
+    ],
+    "defaultSize": 24,
+    "minHitTarget": 44,
+    "inset": 2,
+    "linecap": "round",
+    "linejoin": "round"
+  },
+  "emoji": {
+    "grid": 64,
+    "stroke": 3.2,
+    "sizes": [
+      32,
+      48,
+      64,
+      96
+    ],
+    "defaultSize": 48,
+    "minSize": 32,
+    "clearSpace": 8,
+    "sourceColorLocked": true
+  },
+  "illustration": {
+    "recommendedMinimum": 128,
+    "compactAlternativeBelow": 96,
+    "maxRecommendedScreenSize": 320
+  },
+  "motion": {
+    "durationMs": 240,
+    "iterations": 1,
+    "easing": "cubic-bezier(.2,.7,.2,1)",
+    "reducedMotion": "static",
+    "maxScale": 1.04
+  }
+}

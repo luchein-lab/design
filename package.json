@@ -1,0 +1,11 @@
+{
+  "name": "@capptus/design-system",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Capptus Living Oasis design showcase, asset library, and reusable foundations",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs"
+  }
+}

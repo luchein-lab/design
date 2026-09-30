@@ -1,0 +1,16 @@
+.cap-button { display:inline-flex; align-items:center; justify-content:center; gap:1rem; min-height:44px; padding:.875rem 1.375rem; border:1px solid var(--cap-color-action); border-radius:var(--cap-radius-control); background:var(--cap-color-action); color:var(--cap-color-white); font:600 .875rem/1.4 var(--cap-font-body); text-decoration:none; cursor:pointer; transition:background var(--cap-motion-duration) var(--cap-motion-easing); }
+.cap-button:hover { background:var(--cap-color-cactus); border-color:var(--cap-color-cactus); }
+.cap-button--secondary { background:transparent; color:var(--cap-color-action); }
+.cap-button--secondary:hover { color:var(--cap-color-white); }
+.cap-button:disabled { background:var(--cap-color-sand); border-color:var(--cap-color-muted); color:var(--cap-color-ink); cursor:not-allowed; }
+.cap-link { color:var(--cap-color-action); text-underline-offset:.25em; }
+.cap-button:focus-visible,.cap-link:focus-visible,.cap-field__input:focus-visible,.cap-disclosure>summary:focus-visible { outline:3px solid var(--cap-color-action); outline-offset:4px; }
+.cap-card { padding:var(--cap-space-6); border:1px solid var(--cap-color-line); background:var(--cap-color-white); }
+.cap-card__title { font:400 1.75rem/1.2 var(--cap-font-display); margin:0 0 var(--cap-space-3); color:var(--cap-color-ink); }
+.cap-card__body { font:1rem/1.6 var(--cap-font-body); margin:0; color:var(--cap-color-muted); }
+.cap-field { display:grid; gap:var(--cap-space-2); font:1rem/1.6 var(--cap-font-body); color:var(--cap-color-ink); }
+.cap-field__input { box-sizing:border-box; width:100%; min-height:44px; border:1px solid var(--cap-color-muted); border-radius:var(--cap-radius-control); padding:.75rem; font:inherit; color:inherit; background:var(--cap-color-white); }
+.cap-field__help { margin:0; color:var(--cap-color-muted); font-size:.875rem; }
+.cap-disclosure { border-block:1px solid var(--cap-color-line); padding:var(--cap-space-4) 0; color:var(--cap-color-ink); font:1rem/1.6 var(--cap-font-body); }
+.cap-disclosure>summary { cursor:pointer; min-height:44px; align-content:center; }
+@media(prefers-reduced-motion:reduce) { .cap-button { transition:none; } }

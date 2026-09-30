@@ -1,0 +1,426 @@
+[
+  {
+    "family": "emoji",
+    "id": "reach",
+    "name": {
+      "es": "Explorar",
+      "en": "Reach"
+    },
+    "meaning": [
+      "Curiosidad con dirección.",
+      "Curiosity with intent."
+    ],
+    "use": [
+      "Ideas nuevas, preguntas y descubrimiento.",
+      "New ideas, useful questions and discovery."
+    ],
+    "avoid": [
+      "No significa que una tarea esté terminada.",
+      "Do not use it as a completion status."
+    ],
+    "shortcode": ":capptus-reach:",
+    "master": "assets/emoji/reach.svg",
+    "png128": "assets/emoji/reach-128.png",
+    "png256": "assets/emoji/reach-256.png",
+    "tile": "assets/emoji/reach-tile-128.png"
+  },
+  {
+    "family": "emoji",
+    "id": "bloom",
+    "name": {
+      "es": "Florecer",
+      "en": "Bloom"
+    },
+    "meaning": [
+      "Un avance que merece celebrarse.",
+      "A milestone worth celebrating."
+    ],
+    "use": [
+      "Lanzamiento, agradecimiento o logro confirmado.",
+      "Launches, appreciation or confirmed milestones."
+    ],
+    "avoid": [
+      "No afirma resultados comerciales por sí solo.",
+      "The image is not evidence of a business result."
+    ],
+    "shortcode": ":capptus-bloom:",
+    "master": "assets/emoji/bloom.svg",
+    "png128": "assets/emoji/bloom-128.png",
+    "png256": "assets/emoji/bloom-256.png",
+    "tile": "assets/emoji/bloom-tile-128.png"
+  },
+  {
+    "family": "emoji",
+    "id": "rooted",
+    "name": {
+      "es": "Sostener",
+      "en": "Stay rooted"
+    },
+    "meaning": [
+      "Seguimos aquí y nos hacemos cargo.",
+      "Staying close and accountable."
+    ],
+    "use": [
+      "Soporte, continuidad y acompañamiento.",
+      "Support, continuity and ongoing care."
+    ],
+    "avoid": [
+      "No sustituye un estado técnico de disponibilidad.",
+      "Do not substitute it for a system uptime indicator."
+    ],
+    "shortcode": ":capptus-rooted:",
+    "master": "assets/emoji/rooted.svg",
+    "png128": "assets/emoji/rooted-128.png",
+    "png256": "assets/emoji/rooted-256.png",
+    "tile": "assets/emoji/rooted-tile-128.png"
+  },
+  {
+    "family": "emoji",
+    "id": "connect",
+    "name": {
+      "es": "Conectar",
+      "en": "Connect"
+    },
+    "meaning": [
+      "La relación hace posible la siguiente acción.",
+      "A connection that enables the next step."
+    ],
+    "use": [
+      "Integraciones, colaboración y coordinación.",
+      "Integration, collaboration and coordination."
+    ],
+    "avoid": [
+      "Evitar usarlo como enlace sin etiqueta.",
+      "An icon-only link still needs an accessible label."
+    ],
+    "shortcode": ":capptus-connect:",
+    "master": "assets/emoji/connect.svg",
+    "png128": "assets/emoji/connect-128.png",
+    "png256": "assets/emoji/connect-256.png",
+    "tile": "assets/emoji/connect-tile-128.png"
+  },
+  {
+    "family": "emoji",
+    "id": "adapt",
+    "name": {
+      "es": "Encontrar camino",
+      "en": "Find a way"
+    },
+    "meaning": [
+      "Un bloqueo tiene una próxima acción.",
+      "A way through a difficult moment."
+    ],
+    "use": [
+      "Resolución, alternativa y adaptación.",
+      "Problem-solving, alternatives and adaptation."
+    ],
+    "avoid": [
+      "No celebrar incidentes ni minimizar su impacto.",
+      "Do not trivialize an incident or its impact."
+    ],
+    "shortcode": ":capptus-adapt:",
+    "master": "assets/emoji/adapt.svg",
+    "png128": "assets/emoji/adapt-128.png",
+    "png256": "assets/emoji/adapt-256.png",
+    "tile": "assets/emoji/adapt-tile-128.png"
+  },
+  {
+    "family": "emoji",
+    "id": "together",
+    "name": {
+      "es": "Crecer juntos",
+      "en": "Grow together"
+    },
+    "meaning": [
+      "Distintos talentos, un mismo compromiso.",
+      "Different strengths, shared responsibility."
+    ],
+    "use": [
+      "Equipo, alianza, bienvenida y colaboración.",
+      "Teamwork, partnership, welcome and collaboration."
+    ],
+    "avoid": [
+      "No asignar una planta a cada producto tecnológico.",
+      "Do not invent a plant for every technology product."
+    ],
+    "shortcode": ":capptus-together:",
+    "master": "assets/emoji/together.svg",
+    "png128": "assets/emoji/together-128.png",
+    "png256": "assets/emoji/together-256.png",
+    "tile": "assets/emoji/together-tile-128.png"
+  },
+  {
+    "family": "emoji",
+    "id": "balance",
+    "name": {
+      "es": "Cuidar",
+      "en": "Balance"
+    },
+    "meaning": [
+      "Atención sostenida y criterio.",
+      "Thoughtful care over time."
+    ],
+    "use": [
+      "Operación, revisión, calidad y agradecimiento.",
+      "Operations, review, quality and appreciation."
+    ],
+    "avoid": [
+      "No representa pausa o tarea bloqueada.",
+      "Do not use it for a paused or blocked task."
+    ],
+    "shortcode": ":capptus-balance:",
+    "master": "assets/emoji/balance.svg",
+    "png128": "assets/emoji/balance-128.png",
+    "png256": "assets/emoji/balance-256.png",
+    "tile": "assets/emoji/balance-tile-128.png"
+  },
+  {
+    "family": "emoji",
+    "id": "horizon",
+    "name": {
+      "es": "Avanzar",
+      "en": "New horizon"
+    },
+    "meaning": [
+      "Una siguiente etapa, con perspectiva.",
+      "A clear view of what comes next."
+    ],
+    "use": [
+      "Roadmap, cierre de etapa y nuevos comienzos.",
+      "Roadmaps, completed phases and new beginnings."
+    ],
+    "avoid": [
+      "No confundir con promesa de resultado garantizado.",
+      "Do not imply a guaranteed outcome."
+    ],
+    "shortcode": ":capptus-horizon:",
+    "master": "assets/emoji/horizon.svg",
+    "png128": "assets/emoji/horizon-128.png",
+    "png256": "assets/emoji/horizon-256.png",
+    "tile": "assets/emoji/horizon-tile-128.png"
+  },
+  {
+    "family": "interface",
+    "id": "arrow-right",
+    "name": {
+      "es": "Siguiente",
+      "en": "Next"
+    },
+    "master": "assets/icons/arrow-right.svg"
+  },
+  {
+    "family": "interface",
+    "id": "arrow-left",
+    "name": {
+      "es": "Anterior",
+      "en": "Back"
+    },
+    "master": "assets/icons/arrow-left.svg"
+  },
+  {
+    "family": "interface",
+    "id": "plus",
+    "name": {
+      "es": "Agregar",
+      "en": "Add"
+    },
+    "master": "assets/icons/plus.svg"
+  },
+  {
+    "family": "interface",
+    "id": "close",
+    "name": {
+      "es": "Cerrar",
+      "en": "Close"
+    },
+    "master": "assets/icons/close.svg"
+  },
+  {
+    "family": "interface",
+    "id": "check",
+    "name": {
+      "es": "Completado",
+      "en": "Complete"
+    },
+    "master": "assets/icons/check.svg"
+  },
+  {
+    "family": "interface",
+    "id": "search",
+    "name": {
+      "es": "Buscar",
+      "en": "Search"
+    },
+    "master": "assets/icons/search.svg"
+  },
+  {
+    "family": "interface",
+    "id": "download",
+    "name": {
+      "es": "Descargar",
+      "en": "Download"
+    },
+    "master": "assets/icons/download.svg"
+  },
+  {
+    "family": "interface",
+    "id": "external",
+    "name": {
+      "es": "Abrir enlace",
+      "en": "Open link"
+    },
+    "master": "assets/icons/external.svg"
+  },
+  {
+    "family": "interface",
+    "id": "play",
+    "name": {
+      "es": "Reproducir",
+      "en": "Play"
+    },
+    "master": "assets/icons/play.svg"
+  },
+  {
+    "family": "interface",
+    "id": "pause",
+    "name": {
+      "es": "Pausar",
+      "en": "Pause"
+    },
+    "master": "assets/icons/pause.svg"
+  },
+  {
+    "family": "interface",
+    "id": "refresh",
+    "name": {
+      "es": "Actualizar",
+      "en": "Refresh"
+    },
+    "master": "assets/icons/refresh.svg"
+  },
+  {
+    "family": "interface",
+    "id": "link",
+    "name": {
+      "es": "Vincular",
+      "en": "Link"
+    },
+    "master": "assets/icons/link.svg"
+  },
+  {
+    "family": "interface",
+    "id": "message",
+    "name": {
+      "es": "Conversar",
+      "en": "Message"
+    },
+    "master": "assets/icons/message.svg"
+  },
+  {
+    "family": "interface",
+    "id": "clock",
+    "name": {
+      "es": "En espera",
+      "en": "Pending"
+    },
+    "master": "assets/icons/clock.svg"
+  },
+  {
+    "family": "interface",
+    "id": "attention",
+    "name": {
+      "es": "Revisar",
+      "en": "Attention"
+    },
+    "master": "assets/icons/attention.svg"
+  },
+  {
+    "family": "interface",
+    "id": "menu",
+    "name": {
+      "es": "Menú",
+      "en": "Menu"
+    },
+    "master": "assets/icons/menu.svg"
+  },
+  {
+    "family": "illustration",
+    "id": "reach",
+    "name": {
+      "es": "Explorar",
+      "en": "Reach"
+    },
+    "master": "assets/illustrations/01-reach.png",
+    "sourceUnchanged": true
+  },
+  {
+    "family": "illustration",
+    "id": "bloom",
+    "name": {
+      "es": "Florecer",
+      "en": "Bloom"
+    },
+    "master": "assets/illustrations/02-bloom.png",
+    "sourceUnchanged": true
+  },
+  {
+    "family": "illustration",
+    "id": "rooted",
+    "name": {
+      "es": "Sostener",
+      "en": "Stay rooted"
+    },
+    "master": "assets/illustrations/03-stay-rooted.png",
+    "sourceUnchanged": true
+  },
+  {
+    "family": "illustration",
+    "id": "connect",
+    "name": {
+      "es": "Conectar",
+      "en": "Connect"
+    },
+    "master": "assets/illustrations/04-connect.png",
+    "sourceUnchanged": true
+  },
+  {
+    "family": "illustration",
+    "id": "adapt",
+    "name": {
+      "es": "Encontrar camino",
+      "en": "Find a way"
+    },
+    "master": "assets/illustrations/05-find-a-way.png",
+    "sourceUnchanged": true
+  },
+  {
+    "family": "illustration",
+    "id": "together",
+    "name": {
+      "es": "Crecer juntos",
+      "en": "Grow together"
+    },
+    "master": "assets/illustrations/06-grow-together.png",
+    "sourceUnchanged": true
+  },
+  {
+    "family": "illustration",
+    "id": "balance",
+    "name": {
+      "es": "Cuidar",
+      "en": "Balance"
+    },
+    "master": "assets/illustrations/07-balance.png",
+    "sourceUnchanged": true
+  },
+  {
+    "family": "illustration",
+    "id": "horizon",
+    "name": {
+      "es": "Avanzar",
+      "en": "New horizon"
+    },
+    "master": "assets/illustrations/08-new-horizon.png",
+    "sourceUnchanged": true
+  }
+]
