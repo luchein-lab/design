@@ -1,5 +1,13 @@
 # Provenance
 
+## Capptus Way update · October 1, 2026
+
+Seven final transparent PNGs, the review sheet, generation prompts and alpha/dimension records were copied byte for byte from `output/capptus-way/icons-v1/`. Native proposed Capptus Way logo SVGs and PNG exports originated in `output/capptus-way/exploration-v1/logo/`. The seven illustrations were generated using the built-in image tool; the final set and proposed logo sheet were visually reviewed. Reference screenshots informed the style but are not redistributed.
+
+The first six delivery stages were supplied by the user. Optimize / Grow was the user's suggested extension; Regrowth / Rebrote is a proposed narrative label. Logo artwork is a separate proposal for The Capptus Way. The original corporate logo remains unchanged.
+
+The downloadable kit contains the seven final illustrations and logo proposals, not rejected intermediate variants. Stale local-publication wording and the earlier note awaiting the stage list were removed from the packaged notes. Prompt files, source artwork and font license notices are retained. On October 1, the user explicitly requested this update in GitHub.
+
 Assembled on September 30, 2026 from Capptus Content design artifacts and the two user-supplied references. The user explicitly authorized publication to luchein-lab/design. This showcase contains design materials and selected presentation layouts.
 
 | Material | Local source | Treatment |
@@ -20,4 +28,6 @@ Source paths identify the original local project, not required files in this rep
 
 The original illustrations are AI-generated Capptus concepts. The compact SVGs and interface symbols are code-native vector artwork from the supplied kit; they are simplified interpretations, not automatic vectorizations of the raster illustrations. No artwork from the Hello Monday reference site is included.
 
-The board's landscape is generated concept imagery. Typography in the board and workshop is an observed design expression, not a claim of final production typeface selection. A final legal license review and public redistribution policy remain owner decisions.
+The board's landscape is generated concept imagery. The archived boards and workshop retain their original rendered typography. On October 1, 2026, the user confirmed Lora and Montserrat as the approved pairing; the live showcase and reusable typography styles now implement it. A final legal license review and public redistribution policy remain owner decisions.
+
+Lora normal/italic and Montserrat normal variable TTF files were downloaded unchanged from the official [Google Fonts repository](https://github.com/google/fonts) (`ofl/lora` and `ofl/montserrat`) on October 1, 2026. Both original OFL notices accompany the files in assets/fonts/. Asset hashes record this exact downloaded version.

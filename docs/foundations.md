@@ -6,7 +6,7 @@ The original Capptus logo is fixed. Blue #008ED1 and gray #6D6E70 were sampled f
 
 The Living Oasis direction uses warm limestone, restrained mineral colors, editorial typography, generous space, and confident irregular line illustration. Baja and cactus resilience inform the direction; they do not require a cactus in every layout.
 
-The supporting palette, font fallbacks, spacing scale, and component API remain proposed implementation choices. Typography in the existing studies uses Georgia/Times and Arial/Helvetica; a final production typeface and license have not been selected.
+The typography pairing is approved by the user as of October 1, 2026: Lora for display and Montserrat for body/UI. The supporting palette, spacing scale, and component API remain proposed implementation choices.
 
 ## Color roles
 
@@ -26,11 +26,13 @@ Use action blue for normal-size links and white-on-blue buttons. Identity blue i
 
 ## Typography and layout
 
-Use upright serif display type for a dominant idea, paired with simple sans-serif reading text. Avoid long all-caps paragraphs and excessive letter spacing. Body copy starts at 16px with 1.6 line height. Label text starts at 12px. Size large titles responsively; do not truncate meaningful content.
+Use Lora Medium (500) for h1, h2, h3, highlighted phrases, and quotations. Apply Lora Italic to one or two key words in impact headlines. Use Montserrat Regular (400) for paragraphs and Medium (500) or SemiBold (600) for navigation, buttons, tags, h4/h5, and functional labels. Preserve a strong contrast between large serif headlines and contained sans-serif reading blocks. Keep generous line height and margins, and write professional, approachable, witty, sophisticated copy without dense paragraphs. See docs/typography.md. Avoid long all-caps paragraphs and excessive letter spacing. Body copy starts at 16px with 1.6 line height. Label text starts at 12px. Size large titles responsively; do not truncate meaningful content.
 
 The starter proposes a 4px spacing base, a 72rem content maximum, square button corners, and a 44px minimum control height. These establish consistency for review; they are not retroactively approved brand specifications.
 
 ## Assets
+
+The Capptus Way adds seven editorial line-art PNGs. The first six names and operational stages are user-confirmed; Optimize / Grow is a proposed extension, with Regrowth / Rebrote as a proposed narrative name. The separate Capptus Way logo exploration remains proposed and does not replace the corporate logo. See [stage meanings and usage](capptus-way.md).
 
 Scale the logo proportionally and keep surrounding space. Numeric clear-space rules and minimum logo sizes require design-owner approval. Original illustrations are PNG raster assets; the supplied kit adds eight compact SVG interpretations and sixteen interface symbols. Keep full silhouettes visible on light backgrounds. The reference moodboard contains generated landscape concept imagery.
 
@@ -47,7 +49,7 @@ Keyboard focus uses a visible 3px action-blue outline. Controls have a minimum 4
 ## Open decisions
 
 - Name accountable design and engineering owners.
-- Confirm the supporting palette and production fonts.
+- Confirm the supporting palette.
 - Define logo clear space, minimum sizes, and any authorized alternate artwork.
 - Define error, warning, success, and data-visualization palettes with contrast checks.
 - Expand states and patterns from real product needs, including errors and loading behavior.

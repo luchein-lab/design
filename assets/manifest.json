@@ -16,8 +16,72 @@
     "sha256": "72df0491e109584d472aeb2a1c541d07bb24d94863ed9f959c0bd06f0e1bb616"
   },
   {
+    "path": "assets/capptus-way/01-seedling-discover.png",
+    "sha256": "dee61e4710104b9c9928f1db8481bd2ee2fdfef1e2f355b3f65990af5dc8b938"
+  },
+  {
+    "path": "assets/capptus-way/02-budding-design.png",
+    "sha256": "593d83575b7025f3893ff8b07bb6b4736cab8de8401033c24f438a9d38d507e0"
+  },
+  {
+    "path": "assets/capptus-way/03-growing-build.png",
+    "sha256": "2df9f01e5d3ac9abb939935ee2bbdf71f56f15bc806236f4fa05729ceb83dc02"
+  },
+  {
+    "path": "assets/capptus-way/04-nurturing-integrate.png",
+    "sha256": "85c26a8206572044532edaf6614c2c807fd9626d71b06a52c9753a1b5f92bf70"
+  },
+  {
+    "path": "assets/capptus-way/05-pruning-test-train.png",
+    "sha256": "fe897eb90e2e6f65054dac5f1e0799cc3fbd44889c202a587c09c54cc36fddf4"
+  },
+  {
+    "path": "assets/capptus-way/06-harvest-deploy.png",
+    "sha256": "fd948f0278335da71146428aaa9432f2e82a68cb57de6454971fcad48a105b4f"
+  },
+  {
+    "path": "assets/capptus-way/07-regrowth-optimize-grow.png",
+    "sha256": "450ef6543d4625a062d26798ae23c662d716145e6fc48f994f9082b97095f2c6"
+  },
+  {
+    "path": "assets/capptus-way/Capptus-Way-Set.png",
+    "sha256": "947284f8ebf8fb74eb65cf51a12546fc339a4eb93c6cd8ca52768226dd9ca45a"
+  },
+  {
+    "path": "assets/capptus-way/capptus-way-horizontal.png",
+    "sha256": "5134e9e15a5f0f3b8544b41b51453567d89341177986cfe4dad27b217800d2b4"
+  },
+  {
+    "path": "assets/capptus-way/capptus-way-horizontal.svg",
+    "sha256": "a55c2343fe7baf705d53feaa1c06e46d05be4658d67319edf53bcf303e3634b0"
+  },
+  {
+    "path": "assets/capptus-way/capptus-way-logo-preview.png",
+    "sha256": "d19f039ef50c44d9fd483a514a83e64c708c07e84265b9b0055087c3a1d558af"
+  },
+  {
+    "path": "assets/capptus-way/capptus-way-symbol-mono.svg",
+    "sha256": "0a992ff06e8f01974f9ebf58f1650da358e2647a99257036832fd93a2392205e"
+  },
+  {
+    "path": "assets/capptus-way/capptus-way-symbol.png",
+    "sha256": "7d854b57cf4319920667ce791f48920406add2ceac5150a52817d79c334a86e3"
+  },
+  {
+    "path": "assets/capptus-way/capptus-way-symbol.svg",
+    "sha256": "40b536227a1f176eaa08a824af265ec2c8a5832d0e96d97c4d982206f2f948f2"
+  },
+  {
+    "path": "assets/capptus-way/prompts.json",
+    "sha256": "72c1fc45cb3914e4a661cc69aff33a9cd0a68e6054e8527a80596fe572835503"
+  },
+  {
+    "path": "assets/capptus-way/validation.json",
+    "sha256": "1dc1b5e9cb32c1d637f95f1c4e64167b54a979291c6cda1e62520c6e5573c7d7"
+  },
+  {
     "path": "assets/catalog.json",
-    "sha256": "b6ed6d3519210a7733d822fd04118b2ccaa26ed8f808a5fe8e18851fd112e635"
+    "sha256": "2d8c8dab6269a429294b2d6721edf10517f77ae4fa9f0d6e84f6459f5a72cf5c"
   },
   {
     "path": "assets/emoji/adapt-128.png",
@@ -180,6 +244,26 @@
     "sha256": "83b5d9ee584f58e781a99c0dfd8daafe421e416cf975a3e4f1d15391ecff912d"
   },
   {
+    "path": "assets/fonts/Lora-Italic-Variable.ttf",
+    "sha256": "22d8d8854b53807aa664ca34f2031a9ed57a1d0dea296b8b96cdd3aad937a2b3"
+  },
+  {
+    "path": "assets/fonts/Lora-OFL.txt",
+    "sha256": "1d9a970809ac804b582a6ce7f0ebc4e7fefcbfd7ff6299cad35ee656a21be716"
+  },
+  {
+    "path": "assets/fonts/Lora-Variable.ttf",
+    "sha256": "822a6621ccbe8d97d20ac88c1c41f5615c9c2c202eaa75f272cd452aac6475a7"
+  },
+  {
+    "path": "assets/fonts/Montserrat-OFL.txt",
+    "sha256": "8b7141c03fa4f8d44e6345d5d4931709290f0f67875e452e95ac1fd3a027802e"
+  },
+  {
+    "path": "assets/fonts/Montserrat-Variable.ttf",
+    "sha256": "0f7b311b2f3279e4eef9b2f968bcdbab6e28f4daeb1f049f4f278a902bcd82f7"
+  },
+  {
     "path": "assets/icons/arrow-left.svg",
     "sha256": "dd10579a2e22f09764a340f78c9a75928a98fb8aabe91d13bb2f34f5102456e3"
   },
@@ -298,5 +382,9 @@
   {
     "path": "downloads/Capptus-The-Living-Oasis-Moodboard-v3.svg",
     "sha256": "6acb4b6e3e251238a38f468dfc55606f04e1243efad56a506e5b346308d77ddf"
+  },
+  {
+    "path": "downloads/Capptus-Way-Icons-v1.zip",
+    "sha256": "47318b71a0fb22b78c7318b0e2a16bd0a6b31108bd91769c51f8fa7a5bafc994"
   }
 ]

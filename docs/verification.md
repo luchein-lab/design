@@ -1,5 +1,15 @@
 # Verification record
 
+## Capptus Way update · October 1, 2026
+
+- Gallery expanded to 41 catalog entries: the original 32, seven Capptus Way illustrations, and two proposed logo designs.
+- Six stage records are marked official; the seventh is marked proposed. Both logo records are explicitly proposed.
+- Asset manifest covers 97 files. The original corporate logo hash remains unchanged.
+- All seven originals are 1254 × 1254 RGBA PNGs with real transparency. The combined review sheet was inspected visually; the Nurturing motif was simplified for consistency.
+- The ZIP contains the seven selected PNGs, prompts, review sheet, alpha records and proposed editable logo assets. Intermediate illustrations and local build scripts are excluded.
+- Build, generated-output consistency, hashes, local links and documented text contrast are checked by `npm run build` and `npm run check`.
+- No new browser interaction or mobile layout verification was performed. The browser-review limitation below remains applicable.
+
 September 30, 2026 · showcase 0.2.0
 
 ## Passed
@@ -28,3 +38,7 @@ Before product release, review the page at desktop and mobile widths, keyboard n
 ## Publication scope
 
 The user explicitly authorized commit and push to luchein-lab/design on September 30, 2026, and clarified that the repository should showcase the work already created. This release contains a visual GitHub README and an interactive static gallery. Website hosting and package distribution have not been configured.
+
+## Typography correction · October 1, 2026
+
+Lora Medium 500 (normal and real italic) and Montserrat 400/500/600 are approved user decisions. Tokens, reusable styles, showcase text, and documentation now reflect them. Three original variable TTF files and two OFL notices are bundled locally. File integrity, TrueType table structure, weight ranges, and the Lora italic flag were checked. Build and repository checks pass, including the font stylesheet dependency paths. Current manifest coverage is 80 files. No new browser rendering verification was performed for this correction; the browser-review limitation above remains applicable. Archived reference images and downloads retain their original rendered type.

@@ -422,5 +422,132 @@
     },
     "master": "assets/illustrations/08-new-horizon.png",
     "sourceUnchanged": true
+  },
+  {
+    "family": "capptus-way",
+    "id": "01-seedling-discover",
+    "name": {
+      "en": "Seedling — Discover",
+      "es": "Seedling — Discover"
+    },
+    "use": [
+      "Entender problema, objetivos, usuarios, procesos, datos y restricciones.",
+      "Understand the problem, goals, users, processes, data and constraints."
+    ],
+    "master": "assets/capptus-way/01-seedling-discover.png",
+    "status": "official-stage",
+    "sourceUnchanged": true
+  },
+  {
+    "family": "capptus-way",
+    "id": "02-budding-design",
+    "name": {
+      "en": "Budding — Design",
+      "es": "Budding — Design"
+    },
+    "use": [
+      "Diseñar journeys, arquitectura, datos, integraciones, experiencia y backlog.",
+      "Design journeys, architecture, data, integrations, experience and backlog."
+    ],
+    "master": "assets/capptus-way/02-budding-design.png",
+    "status": "official-stage",
+    "sourceUnchanged": true
+  },
+  {
+    "family": "capptus-way",
+    "id": "03-growing-build",
+    "name": {
+      "en": "Growing — Build",
+      "es": "Growing — Build"
+    },
+    "use": [
+      "Configurar, desarrollar y construir la solución.",
+      "Configure, develop and build the solution."
+    ],
+    "master": "assets/capptus-way/03-growing-build.png",
+    "status": "official-stage",
+    "sourceUnchanged": true
+  },
+  {
+    "family": "capptus-way",
+    "id": "04-nurturing-integrate",
+    "name": {
+      "en": "Nurturing — Integrate",
+      "es": "Nurturing — Integrate"
+    },
+    "use": [
+      "Conectar sistemas, datos, canales y componentes.",
+      "Connect systems, data, channels and components."
+    ],
+    "master": "assets/capptus-way/04-nurturing-integrate.png",
+    "status": "official-stage",
+    "sourceUnchanged": true
+  },
+  {
+    "family": "capptus-way",
+    "id": "05-pruning-test-train",
+    "name": {
+      "en": "Pruning — Test / Train",
+      "es": "Pruning — Test / Train"
+    },
+    "use": [
+      "QA, UAT, correcciones, preparación operativa, capacitación y adopción.",
+      "QA, UAT, corrections, operational readiness, training and adoption."
+    ],
+    "master": "assets/capptus-way/05-pruning-test-train.png",
+    "status": "official-stage",
+    "sourceUnchanged": true
+  },
+  {
+    "family": "capptus-way",
+    "id": "06-harvest-deploy",
+    "name": {
+      "en": "Harvest — Deploy",
+      "es": "Harvest — Deploy"
+    },
+    "use": [
+      "Go-live, estabilización y captura del valor esperado.",
+      "Go-live, stabilization and capture of expected value."
+    ],
+    "master": "assets/capptus-way/06-harvest-deploy.png",
+    "status": "official-stage",
+    "sourceUnchanged": true
+  },
+  {
+    "family": "capptus-way",
+    "id": "07-regrowth-optimize-grow",
+    "name": {
+      "en": "Regrowth — Optimize / Grow",
+      "es": "Rebrote — Optimize / Grow"
+    },
+    "use": [
+      "Medir, aprender y mejorar después del go-live.",
+      "Measure, learn and improve after go-live."
+    ],
+    "master": "assets/capptus-way/07-regrowth-optimize-grow.png",
+    "status": "proposed-extension",
+    "sourceUnchanged": true
+  },
+  {
+    "family": "logo-proposal",
+    "id": "capptus-way-symbol",
+    "name": {
+      "en": "Cactus & landscape symbol",
+      "es": "Propuesta de logo The Capptus Way"
+    },
+    "master": "assets/capptus-way/capptus-way-symbol.svg",
+    "png": "assets/capptus-way/capptus-way-symbol.png",
+    "status": "proposed-logo"
+  },
+  {
+    "family": "logo-proposal",
+    "id": "capptus-way-horizontal",
+    "name": {
+      "en": "The Capptus Way lockup",
+      "es": "Propuesta de logo The Capptus Way"
+    },
+    "master": "assets/capptus-way/capptus-way-horizontal.svg",
+    "png": "assets/capptus-way/capptus-way-horizontal.png",
+    "status": "proposed-logo"
   }
 ]

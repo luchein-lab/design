@@ -1,0 +1,107 @@
+[
+  {
+    "file": "01-seedling-discover.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "fully_transparent_percent": 88.17,
+    "content_bounds": [
+      62,
+      51,
+      1208,
+      1182
+    ]
+  },
+  {
+    "file": "02-budding-design.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "fully_transparent_percent": 84.07,
+    "content_bounds": [
+      101,
+      48,
+      1198,
+      1220
+    ]
+  },
+  {
+    "file": "03-growing-build.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "fully_transparent_percent": 85.84,
+    "content_bounds": [
+      119,
+      21,
+      1196,
+      1210
+    ]
+  },
+  {
+    "file": "04-nurturing-integrate.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "fully_transparent_percent": 88.93,
+    "content_bounds": [
+      105,
+      21,
+      1112,
+      1021
+    ]
+  },
+  {
+    "file": "05-pruning-test-train.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "fully_transparent_percent": 86.02,
+    "content_bounds": [
+      62,
+      48,
+      1232,
+      1214
+    ]
+  },
+  {
+    "file": "06-harvest-deploy.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "fully_transparent_percent": 86.61,
+    "content_bounds": [
+      105,
+      49,
+      1091,
+      1208
+    ]
+  },
+  {
+    "file": "07-regrowth-optimize-grow.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "fully_transparent_percent": 83.99,
+    "content_bounds": [
+      105,
+      33,
+      1196,
+      1174
+    ]
+  }
+]
