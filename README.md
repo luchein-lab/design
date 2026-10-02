@@ -2,11 +2,13 @@
 
 The shared showcase for the Capptus work we have created: **The Living Oasis** direction, the illustration family, compact emojis, interface icons, and presentation layouts.
 
-![Capptus icon and emoji system](assets/reference/icon-emoji-system.png)
+![Capptus icon system v2 — approved illustrations, compact icons and UI symbols](assets/reference/Capptus-Icon-System-v2.png)
+
+[Download the current v2 kit](downloads/Capptus-Icon-System-v2.zip) · [Vector reference board](assets/reference/Capptus-Icon-System-v2.svg)
 
 The original Capptus logo and illustrations are preserved. The compact designs and interface symbols are editable SVG artwork. Typography is approved: **Lora Medium (500)** for h1–h3, highlighted phrases, and quotations, with real **Lora Italic** for one or two emphasized headline words; **Montserrat Regular (400)** for body copy and **Medium (500) / SemiBold (600)** for UI and CTAs. The supporting palette remains proposed.
 
-The reference boards and workshop images are archived examples created before this typography decision; their embedded typography has not been rebuilt. The live HTML showcase uses the approved pairing.
+The v2 board and live showcase use the approved pairing. Earlier moodboards and workshop images are archived examples that retain their original typography.
 
 ## The Capptus Way
 
@@ -24,7 +26,7 @@ The selected primary **The Capptus Way** logo is a side-by-side negative lockup,
 
 PNG and SVG preserve the approved typography. Install Lora and Montserrat to edit the PowerPoint with the intended fonts; native PowerPoint rendering remains unverified.
 
-[Download the complete Capptus Way kit](downloads/Capptus-Way-Icons-v1.zip) · [Stage meanings and usage](docs/capptus-way.md)
+[Download the current icon system v2 kit](downloads/Capptus-Icon-System-v2.zip) · [Stage meanings and usage](docs/capptus-way.md)
 
 ## What is here
 
@@ -34,10 +36,9 @@ PNG and SVG preserve the approved typography. Install Lora and Montserrat to edi
 | The Capptus Way | 7 transparent line-art PNGs; 6 official stages + 1 proposed extension |
 | Primary Capptus Way logo | Selected negative lockup; transparent and blue SVG/PNG versions |
 | Executive methodology diagram | 16:9 PNG, SVG and editable PowerPoint with learning loop |
-| Archived Capptus Way logo exploration | 2 earlier SVG designs with PNG exports |
-| Illustration family | 8 unchanged transparent raster illustrations |
-| Compact emojis | 8 editable SVG masters, PNG 128/256 exports, and light tiles |
-| Interface icons | 16 editable SVG masters on a 24px grid |
+| Compact icon family v2 | 7 native SVG masters; transparent 32/64/128/256px PNG exports |
+| Interface icons v2 | 16 native SVG masters; 24px grid and 2px round strokes |
+| Archived v1 artwork | Earlier illustrations, emojis, interface icons and logo proposals retained separately |
 | In use | 4 selected Revenue OS workshop slide layouts |
 | Digital foundations | Token source, CSS components, and accessibility guidance |
 
@@ -57,8 +58,9 @@ The same editorial typography, warm surfaces, blue gestures, and illustration la
 
 ## Download the assets
 
-- [Original icon and emoji kit ZIP](downloads/Capptus-Icons-Emojis-v1.zip)
-- [Editable icon and emoji reference sheet](downloads/Capptus-Icon-Emoji-System.svg)
+- [Current icon system v2 kit ZIP](downloads/Capptus-Icon-System-v2.zip)
+- [Current icon reference sheet](assets/reference/Capptus-Icon-System-v2.svg)
+- [Archived v1 kit and explorations](docs/archive.md)
 - [Asset catalog](assets/catalog.json)
 - [Icon and emoji usage notes](docs/icon-emoji-usage.txt)
 - [Icon and emoji tokens](tokens/icon-emoji.tokens.json)
@@ -101,7 +103,7 @@ npm run build
 npm run check
 ```
 
-The check verifies generated CSS and HTML consistency, all 41 catalog records, file hashes, local links, the original logo, and contrast for the documented normal-text pairs. See [verification boundaries](docs/verification.md) for the checks performed and pending browser review.
+The check verifies generated CSS and HTML consistency, all 30 current catalog records, file hashes, local links, the original logo, and contrast for the documented normal-text pairs. See [verification boundaries](docs/verification.md) for the checks performed and pending browser review.
 
 ## Ownership and publication
 

@@ -1,5 +1,15 @@
 # Verification record
 
+## Approved icon system v2 replacement · October 2, 2026
+
+- The featured board, hero, active library and primary icon download now use the reviewed v2 set. Active catalog: 30 records, comprising seven Capptus Way illustrations, seven compact icons and sixteen UI symbols.
+- Both botanical families preserve six official stage records and one proposed extension. Visual publication approval does not promote the seventh operational stage.
+- Earlier assets and kits remain intact; previous catalog, usage notes and icon tokens are preserved as archives.
+- The manifest covers 181 files. The corporate logo is unchanged. New compact/UI artwork matches reviewed source exports byte for byte.
+- The PNG/SVG board retains the reviewed artwork with its publication footer updated. SVG lettering uses outlined Lora and Montserrat. The board and original 32px proof were visually reviewed.
+- Build, generated output, asset hashes, local links, IDs, labels and documented text contrast pass. Current ZIP integrity and internal catalog destinations pass.
+- Browser interaction and mobile layout remain unverified; the existing browser-policy limitation below applies. Native PowerPoint verification is unchanged.
+
 ## Executive diagram and primary logo · October 2, 2026
 
 - The current primary logo and executive diagram lead the showcase; earlier logo proposals remain archived. The asset catalog retains its 41 records.

@@ -14,16 +14,17 @@ assert.equal(assets.find(asset => asset.path === 'assets/logo/capptus-original.p
 const html = await readFile(new URL('index.html', root), 'utf8');
 assert.equal(html, await generatedShowcase(), 'Generated showcase is stale; run npm run build');
 const catalog = JSON.parse(await readFile(new URL('assets/catalog.json', root), 'utf8'));
-assert.equal(catalog.length, 41);
-for (const [family, expected] of [['illustration', 8], ['emoji', 8], ['interface', 16], ['capptus-way', 7], ['logo-proposal', 2]]) {
+assert.equal(catalog.length, 30);
+for (const [family, expected] of [['compact', 7], ['interface', 16], ['capptus-way', 7]]) {
   assert.equal(catalog.filter(asset => asset.family === family).length, expected, `Unexpected ${family} count`);
 }
 for (const asset of catalog) {
-  for (const field of ['master','png','png128','png256','tile']) if (asset[field]) await readFile(new URL(asset[field], root));
+  for (const field of ['master','png','png32','png64','png128','png256','tile']) if (asset[field]) await readFile(new URL(asset[field], root));
 }
 assert.equal(catalog.filter(asset => asset.family === 'capptus-way' && asset.status === 'official-stage').length, 6);
 assert.equal(catalog.filter(asset => asset.family === 'capptus-way' && asset.status === 'proposed-extension').length, 1);
-assert(catalog.filter(asset => asset.family === 'logo-proposal').every(asset => asset.status === 'proposed-logo'));
+assert.equal(catalog.filter(asset => asset.family === 'compact' && asset.status === 'official-stage').length, 6);
+assert.equal(catalog.filter(asset => asset.family === 'compact' && asset.status === 'proposed-extension').length, 1);
 const ids = [...html.matchAll(/\bid="([^"]+)"/g)].map(match => match[1]);
 assert.equal(new Set(ids).size, ids.length, 'Duplicate HTML IDs');
 for (const match of html.matchAll(/(?:src|href)="([^"]+)"/g)) {
@@ -49,4 +50,4 @@ for (const [foreground, background] of [['ink','limestone'], ['muted','limestone
   assert(ratio >= 4.5, `${foreground}/${background} fails normal-text contrast: ${ratio}`);
   console.log(`${foreground}/${background}: ${ratio.toFixed(2)}:1`);
 }
-console.log(`Passed: generated CSS and showcase, 41 catalog records, ${assets.length} file hashes, original logo, local references, HTML IDs, labels, and documented text contrast.`);
+console.log(`Passed: generated CSS and showcase, 30 catalog records, ${assets.length} file hashes, original logo, local references, HTML IDs, labels, and documented text contrast.`);

@@ -1,5 +1,11 @@
 # Provenance
 
+## Approved icon system v2 · October 2, 2026
+
+The user reviewed the complete v2 board in this conversation and explicitly requested commit and replacement in GitHub. Seven compact SVG masters and their 32/64/128/256px PNGs, plus sixteen UI SVGs and PNGs, were copied unchanged from `output/capptus-way/icon-system-v2-review/`. The seven existing Capptus Way illustrations are reused unchanged. The board uses the selected primary methodology logo and true outlined Lora/Montserrat; only its review/publication footer was updated for the release. No new visual design was introduced during publication.
+
+The v2 board, downloads, tokens, usage notes, hero illustration and active catalog supersede v1. Earlier source assets and downloads remain intact; the previous catalog, tokens and usage notes are archived separately. Approval of the visual set leaves Optimize / Grow and Regrowth / Rebrote as proposed. The corporate logo remains byte-identical. Builders, local paths and rejected explorations are excluded from the new kit.
+
 ## Executive diagram and primary logo · October 2, 2026
 
 The six selected primary logo SVG/PNG exports and their ZIP were copied byte for byte from `output/capptus-way/primary-side-negative-v4/`. The executive PNG, SVG, editable PPTX and kit ZIP were copied byte for byte from `output/capptus-way/executive-diagram-v1/deliverables/`. Builders and unused logo variants are excluded. The user explicitly requested pushing this update to GitHub.

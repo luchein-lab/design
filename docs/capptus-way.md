@@ -43,14 +43,14 @@ The 16:9 composition places the six official stages across an open limestone can
 
 PNG and SVG use outlined Lora Medium and Montserrat lettering, preserving the intended appearance without installed fonts. The SVG embeds raster illustrations. PowerPoint text and connectors are editable; install Lora and Montserrat before editing. Package structure and geometry were checked, but the available renderer substituted fonts and native PowerPoint rendering was not verified. The kit includes fonts and their OFL notices.
 
-## Files
+## Current icon system v2
 
-- [Complete kit ZIP](../downloads/Capptus-Way-Icons-v1.zip)
-- [Review sheet](../assets/capptus-way/Capptus-Way-Set.png)
-- [Generation prompts](../assets/capptus-way/prompts.json)
-- [PNG alpha and dimension checks](../assets/capptus-way/validation.json)
-- [Editable symbol](../assets/capptus-way/capptus-way-symbol.svg)
-- [Editable monochrome symbol](../assets/capptus-way/capptus-way-symbol-mono.svg)
-- [Editable horizontal lockup](../assets/capptus-way/capptus-way-horizontal.svg)
+The reviewed v2 set is approved for GitHub replacement. Seven compact vector interpretations mirror the editorial motifs, and sixteen UI symbols share rounded 2px strokes. Botanical icons keep black outlines and small blue/sand accents; UI glyphs use currentColor.
 
-The SVG review sheet within the ZIP embeds raster illustration assets; it is not a vectorization of the seven icons. The logo SVGs are native vector artwork. Font license notices accompany the embedded fonts in the kit.
+- [Current complete v2 kit](../downloads/Capptus-Icon-System-v2.zip)
+- [Current reference board PNG](../assets/reference/Capptus-Icon-System-v2.png)
+- [Current reference board SVG](../assets/reference/Capptus-Icon-System-v2.svg)
+- [V2 usage notes](icon-emoji-usage.txt)
+- [Earlier kits and explorations](archive.md)
+
+The board SVG embeds raster editorial illustrations and a raster logo preview; individual compact/UI masters and primary logo masters are native vectors. Publication approval applies to the visual set; Optimize / Grow and Regrowth / Rebrote remain proposed.

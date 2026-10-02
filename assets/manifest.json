@@ -24,6 +24,14 @@
     "sha256": "72df0491e109584d472aeb2a1c541d07bb24d94863ed9f959c0bd06f0e1bb616"
   },
   {
+    "path": "assets/archive/catalog-v1.json",
+    "sha256": "2d8c8dab6269a429294b2d6721edf10517f77ae4fa9f0d6e84f6459f5a72cf5c"
+  },
+  {
+    "path": "assets/archive/icon-emoji.tokens-v1.json",
+    "sha256": "6dafab6fe703f2b9aa9751d86319e4bfcd1ed3f34eace7a0d8e4614ba8ea7849"
+  },
+  {
     "path": "assets/capptus-way/01-seedling-discover.png",
     "sha256": "dee61e4710104b9c9928f1db8481bd2ee2fdfef1e2f355b3f65990af5dc8b938"
   },
@@ -113,7 +121,7 @@
   },
   {
     "path": "assets/catalog.json",
-    "sha256": "2d8c8dab6269a429294b2d6721edf10517f77ae4fa9f0d6e84f6459f5a72cf5c"
+    "sha256": "36513c89b79affee21bc730cdb386ddfe3dd86bd2a73b1503d2700a377814662"
   },
   {
     "path": "assets/emoji/adapt-128.png",
@@ -296,6 +304,274 @@
     "sha256": "0f7b311b2f3279e4eef9b2f968bcdbab6e28f4daeb1f049f4f278a902bcd82f7"
   },
   {
+    "path": "assets/icon-system-v2/compact/budding-128.png",
+    "sha256": "f912caaddf2dee379dd8225d719d414e71ee2c17b366308e108f05276ac14a0c"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/budding-256.png",
+    "sha256": "5c6f5250a8c72f3716fffc840d2492743d650e43016f2624379ec2c608cddb27"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/budding-32.png",
+    "sha256": "360500d1a2e88f8e662f6e8f921505406226a3e69c202b337412a7e161725294"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/budding-64.png",
+    "sha256": "163b5fbfe0285024eee0c30c52e11d4dfe6b3dd8850b694143a82ec84240ebc9"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/budding.svg",
+    "sha256": "14fe26bfed1a5ad4b6c88c69b403a3d38ab47006c2ba0c295bdc4fe163c7d1b5"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/growing-128.png",
+    "sha256": "7d377dbf737448a8edd9bc35caf05332d6352407a8da0a9e3422990712f1b1f0"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/growing-256.png",
+    "sha256": "50510d366992c832f5eab8f10d57d1f7ec38461dad56ffe6332fa5017b2606bf"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/growing-32.png",
+    "sha256": "a00f16a22cda70f190cbd307fb768a12c9631f373c3b68b6a2d2022b6c4ce673"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/growing-64.png",
+    "sha256": "cbfcdc5bbeebd2ca57fde4d4177ff9579d35680c1e3025793a17755787758588"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/growing.svg",
+    "sha256": "3083a3b0d938124c93ee08016187352e459da663da009358f051a5b0cd038b2f"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/harvest-128.png",
+    "sha256": "811cf5892e825bb9e69b794543ca5d3a1bc5fb794270645a0badd17a5a173322"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/harvest-256.png",
+    "sha256": "f318fadad76b86fa01c8c3fe8eb1bd3fb2c2fe5685374d4785dc14129507bf0a"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/harvest-32.png",
+    "sha256": "43c3f04b2104a442d99ad4e03310844bc27ebb08b2d7ba0d9b17963320585abe"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/harvest-64.png",
+    "sha256": "558c28fbdede0170e4f1c95fa180446d745f3b368a556712b73194eade65478c"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/harvest.svg",
+    "sha256": "696109623528dd073bed5164c6ff04dc696da07d396d7abf41420edbaa2cc276"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/nurturing-128.png",
+    "sha256": "aa662227f8962cb1aa42a7200e99c6c90c40868759b8f7383049962d460b2b29"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/nurturing-256.png",
+    "sha256": "b899cd9d4e61ff7a12959e07272f24b348b51bfc81101e0936aa986d248e6154"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/nurturing-32.png",
+    "sha256": "c6f240d7b5f72ad30c4edb9485023f27bd60b879b8d7ccf759a2c0f4d6e9b2d9"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/nurturing-64.png",
+    "sha256": "fec4e3a02ad95269332d5a1751c800004a828e7d847ac38e5e5debfd64c699e3"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/nurturing.svg",
+    "sha256": "c7a6e2c0453a92a42613024243a237debae23b61190c9d36000180837236dfc3"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/pruning-128.png",
+    "sha256": "39fb6dc06cd8c82b34ef639f4a3edd31fd17098cf6c49f01f6f1bbc1c8b487b7"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/pruning-256.png",
+    "sha256": "c194b485f38c042535f595a73a98dfef91816d133b973633a035626a2611231b"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/pruning-32.png",
+    "sha256": "5df02bb43bd1210c0dc5437e3b10b66baaffe8dade364f884fefbef256a03231"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/pruning-64.png",
+    "sha256": "86eda29f76d7e48987890c5bd69e13f271eddea64188ba02e19d653e85254038"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/pruning.svg",
+    "sha256": "6dbb9828c36db10bd237b29de2a9d7929a1df9de6d1c5ca9cbfc37aaa8b51583"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/regrowth-128.png",
+    "sha256": "c0621c6b095103170345333d4b095710f781108dd3e8e62c05c412b624429cc2"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/regrowth-256.png",
+    "sha256": "c44fb6932cf27f8006370a26d7cdee200d6129c5b72689a24dee8b229817005c"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/regrowth-32.png",
+    "sha256": "7c6c9d01ebf4b230e4fa8df5b2c43efaa629d79e37a3d8cc0180b923f4d36f46"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/regrowth-64.png",
+    "sha256": "428c9e5a6113669af85115331f70b2d9a074e8d8e053d245bf82240f5a257c2b"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/regrowth.svg",
+    "sha256": "ee770ff446f879d5d18a3e5b9e2c20ee86b4da7fa0874f8b58b4ed05382f1233"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/seedling-128.png",
+    "sha256": "a3de3a0d9a72e14b3c9de0e18469599800f067b5a0054103eb0f6de763bdaa29"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/seedling-256.png",
+    "sha256": "d447c320b39477c38554c8c51f4ef78603e95a11d90697d61dfec04f17c0e38d"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/seedling-32.png",
+    "sha256": "272ebf7ce763d63ff6e6db0c37372f4528d740d7c019061ff26cf16f2a273e3d"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/seedling-64.png",
+    "sha256": "2e1df4cfbee7494bd318b242fd4876058382420da40fd823504fb1b005a65ba0"
+  },
+  {
+    "path": "assets/icon-system-v2/compact/seedling.svg",
+    "sha256": "7f32bac440691170296d9ee80bd6a179d91f187549b9cd883e87a1f4b3a09ffb"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/add.png",
+    "sha256": "623ead8aa709d860b79c36d29abfa142adebbcece651ad64f285fc25f4b82134"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/add.svg",
+    "sha256": "a9da3aa843d075f4d622868ebc83c7ea96665ebcada85e414b7580ed96526b15"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/attention.png",
+    "sha256": "0fa3e242385e314bea065018cdf758a69e409ae909f6184431a6794067b50452"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/attention.svg",
+    "sha256": "e4f503ed85efdd1d9573b81d47bbfa3a07a62af63effce73121ca9e645ab385c"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/back.png",
+    "sha256": "21fa6cfc09154ba4de036bf0c9f6035cd5abe8497ad544701ebecebe0fc9010e"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/back.svg",
+    "sha256": "089a86b529a7062bd1f4c7007d82e07a274f9207e7588282de69f9f6fab4881d"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/close.png",
+    "sha256": "7a9aef6486ef6337e0bf41346e0e7366bda06ac20425065e4a957b0bc3b2b653"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/close.svg",
+    "sha256": "f7807cbdf2eb25dca35366585be473371f020b0da8d878abc73d529cb4021f01"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/complete.png",
+    "sha256": "4fb4df7d454d32f8d5be68172c3b759b9f2c8b112ecac6174844803e3118bffb"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/complete.svg",
+    "sha256": "33c4d11f37104b56f481aa08a33dca312e51e700b22b5097d135ab9ba4a175aa"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/download.png",
+    "sha256": "df0ca1b962a3a15a4db9b481003292f41e87d50c02d5d1d8f934eda8eff480c2"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/download.svg",
+    "sha256": "405cc5c37ab5bd056d07ca9e7e0dc0ff788ffedc0db312be9de24772b472fa46"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/external.png",
+    "sha256": "119f3fbba0effb6a6b3c47ef087d7be61e9b15d49e482da6c656f8e93c476d31"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/external.svg",
+    "sha256": "c0d6c810a3c4506f4cab87d7a8fddb6ef6d3c8a9b9e29fb324f4bb81021097e8"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/link.png",
+    "sha256": "a03c940ab6bd0ba777d7de6df8f39d100a5493a8ed19af9bf073ac7e2c66fc71"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/link.svg",
+    "sha256": "61aea74607b40e437b2e07a181a0bab23acd019e5123573d613ce54d67271106"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/menu.png",
+    "sha256": "fb308249391dfad0669101cc18d14a991e52d1746d79c5be1a560ddb51d0d09a"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/menu.svg",
+    "sha256": "0df91fd155a1937f6b1a9f7c486be7d8c2f45fc5fd311e82b20ebedec106aef1"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/message.png",
+    "sha256": "0a08a85d4385368c2f48dbac821eaaef478747b5d2e08512ed8494461f5e4cf8"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/message.svg",
+    "sha256": "a66537e7f6875287d18565f3d66aee7211572ea0a8c5c586130959b32f35963d"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/next.png",
+    "sha256": "db55268a0fb99f4560ece0c2c5005b194fe084be67d67b712deec5d3f5e0614e"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/next.svg",
+    "sha256": "2dace6d83d6e30b07e3b11c9f5da05b5f065a6b7caf898aae790c4237e200355"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/pause.png",
+    "sha256": "1807771c4372b0274ce78fa17a45d0e09756af86da2dda92a328c124b3f60782"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/pause.svg",
+    "sha256": "fa42dc7d9ea5e65803e1e10c9c47fac3165e2c7440836aba7a7f8b18512638fe"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/pending.png",
+    "sha256": "d87ae9a1e26e88f8a264843524aa1ea91ae98c66d3f044de4b7b37c93800f140"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/pending.svg",
+    "sha256": "6574a68bea9a73c30cc7555e15a1930ab56c3f712b6994d728530ba9bd8882c5"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/play.png",
+    "sha256": "8f10a69067142fa210008285d0be3d2ae22932e069f6f1d855e1275253ba98ee"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/play.svg",
+    "sha256": "50e5bc591c34ae34e644ceb436f4d9be4a7524a5f5732ef3cbfecf0dc54f36cb"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/refresh.png",
+    "sha256": "93095ecc59b4e3912e26e99d1cf455973aef48f3c352eb71f4f9c98e5793ec5f"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/refresh.svg",
+    "sha256": "d05855944d7d09d02496a04e2d3c30548c3b67ecd8f5e0824cf715947c5fe9ba"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/search.png",
+    "sha256": "a23768d40a6ec02232266a1ac74373dd93e8cbacd226c35a3427ca5436012968"
+  },
+  {
+    "path": "assets/icon-system-v2/ui/search.svg",
+    "sha256": "d8ceeff734b09ae9ac7ec404945ee3ea0fda407b1dba59c03f8ccc5f5dd7afda"
+  },
+  {
     "path": "assets/icons/arrow-left.svg",
     "sha256": "dd10579a2e22f09764a340f78c9a75928a98fb8aabe91d13bb2f34f5102456e3"
   },
@@ -396,6 +672,18 @@
     "sha256": "55f5309be7b3d0e8c36c35c99188a98a6451e15c461bf03ea815af8fb2c73886"
   },
   {
+    "path": "assets/reference/Capptus-Icon-System-v2-Small-Size.png",
+    "sha256": "2e4e7be69c6a004a40327e01163c85a1252c8d71920bb50eaf7d0975a75aff4b"
+  },
+  {
+    "path": "assets/reference/Capptus-Icon-System-v2.png",
+    "sha256": "ab12a87500cd2d59ea27cd1e4037071213305081f45ddb552fc9c4b624695e2d"
+  },
+  {
+    "path": "assets/reference/Capptus-Icon-System-v2.svg",
+    "sha256": "22a21ec537eb1afcf8e8853c2c052bb33d34a1aa4e933ece76ae85be5d6b7fb3"
+  },
+  {
     "path": "assets/reference/icon-emoji-system.png",
     "sha256": "1d5d789e015058a8109c42a2c7ee9ffd3f63afb189ecc6db078398c3a5b245fc"
   },
@@ -406,6 +694,10 @@
   {
     "path": "downloads/Capptus-Icon-Emoji-System.svg",
     "sha256": "aee7bca2a5bba3bee2f4c9196525cf96dde1b23f556e220708349882e4cf2e3b"
+  },
+  {
+    "path": "downloads/Capptus-Icon-System-v2.zip",
+    "sha256": "ae8fdbdfacc95d3a9aa5c8603f509c324ca45e5baba6770f62967a8eadb089e0"
   },
   {
     "path": "downloads/Capptus-Icons-Emojis-v1.zip",

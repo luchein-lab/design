@@ -1,8 +1,8 @@
 {
   "name": "@capptus/design-system",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "private": true,
-  "description": "Capptus Living Oasis design showcase, asset library, and reusable foundations",
+  "description": "Capptus Living Oasis showcase with approved Capptus Way icon system v2",
   "type": "module",
   "scripts": {
     "build": "node scripts/build.mjs",

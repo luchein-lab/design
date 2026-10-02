@@ -34,11 +34,13 @@ The starter proposes a 4px spacing base, a 72rem content maximum, square button 
 
 The Capptus Way adds seven editorial line-art PNGs. The first six names and operational stages are user-confirmed; Optimize / Grow is a proposed extension, with Regrowth / Rebrote as a proposed narrative name. The user-selected primary Capptus Way mark uses a side-by-side negative lockup on Capptus blue. Earlier logo explorations are archived; the corporate logo is preserved. See [stage meanings and usage](capptus-way.md).
 
-Scale the logo proportionally and keep surrounding space. Numeric clear-space rules and minimum logo sizes require design-owner approval. Original illustrations are PNG raster assets; the supplied kit adds eight compact SVG interpretations and sixteen interface symbols. Keep full silhouettes visible on light backgrounds. The reference moodboard contains generated landscape concept imagery.
+The reviewed v2 icon system is approved for replacement on October 2, 2026. The active library contains seven existing editorial illustrations, seven new compact native SVG interpretations and sixteen new interface SVGs. Earlier illustration, emoji and logo explorations are retained in the [archive](archive.md).
 
-The supplied icon/emoji kit defines a 24px UI grid with 2.2px stroke and a 64px compact emoji grid with 3.2px stroke. UI display sizes are 20, 24, and 32px inside 44px minimum controls. Compact emoji minimum size is 32px, preferred 48px, with 8px surrounding space. Use the supplied light tiles for dark or unknown messaging surfaces. See docs/icon-emoji-usage.txt and tokens/icon-emoji.tokens.json.
+Scale the logo proportionally and preserve its supplied spacing. Numeric clear-space rules and minimum sizes remain open. Editorial illustrations are raster PNGs; compact icons and interface symbols are native vectors. Keep full silhouettes visible on light backgrounds.
 
-The icon kit's optional expressive motion is one 240ms response, maximum scale 1.04, with a static reduced-motion alternative. The general component token remains a separate proposed 180ms control feedback. The showcase itself has no animation loops.
+V2 interface icons use a 24px grid with 2px rounded strokes, at 20–32px inside 44px minimum controls. Compact icons use a padded 110-unit viewBox, 4-unit primary strokes and restrained 2–3.5-unit detail; display at 32–96px on white or limestone. PNG exports are available at 32/64/128/256px. SVG interface icons use currentColor. See [v2 usage notes](icon-emoji-usage.txt) and tokens/icon-emoji.tokens.json.
+
+The current icon kit defines no animation. General components retain the separate proposed 180ms feedback token and reduced-motion behavior.
 
 ## Components and accessibility
 

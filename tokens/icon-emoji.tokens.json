@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "date": "2026-09-30",
+  "version": "2.0.0",
+  "date": "2026-10-02",
   "territory": "The Living Oasis",
   "color": {
     "ink": "#1B1B19",
@@ -12,7 +12,7 @@
   },
   "interface": {
     "grid": 24,
-    "stroke": 2.2,
+    "stroke": 2,
     "sizes": [
       20,
       24,
@@ -22,11 +22,28 @@
     "minHitTarget": 44,
     "inset": 2,
     "linecap": "round",
-    "linejoin": "round"
+    "linejoin": "round",
+    "count": 16
   },
-  "emoji": {
-    "grid": 64,
-    "stroke": 3.2,
+  "illustration": {
+    "recommendedMinimum": 128,
+    "compactAlternativeBelow": 96,
+    "maxRecommendedScreenSize": 320,
+    "count": 7
+  },
+  "status": "approved-visual-set",
+  "compact": {
+    "viewBox": [
+      -5,
+      -5,
+      110,
+      110
+    ],
+    "primaryStroke": 4,
+    "detailStrokeRange": [
+      2,
+      3.5
+    ],
     "sizes": [
       32,
       48,
@@ -35,19 +52,16 @@
     ],
     "defaultSize": 48,
     "minSize": 32,
-    "clearSpace": 8,
-    "sourceColorLocked": true
-  },
-  "illustration": {
-    "recommendedMinimum": 128,
-    "compactAlternativeBelow": 96,
-    "maxRecommendedScreenSize": 320
-  },
-  "motion": {
-    "durationMs": 240,
-    "iterations": 1,
-    "easing": "cubic-bezier(.2,.7,.2,1)",
-    "reducedMotion": "static",
-    "maxScale": 1.04
+    "exportSizes": [
+      32,
+      64,
+      128,
+      256
+    ],
+    "linecap": "round",
+    "linejoin": "round",
+    "surface": "white-or-limestone",
+    "sourceColorLocked": true,
+    "count": 7
   }
 }
