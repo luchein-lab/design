@@ -1,5 +1,13 @@
 [
   {
+    "path": "assets/applications/Capptus-Way-Executive-Diagram.png",
+    "sha256": "4a2cfab27cda5083c3214c4b75c7686f25993d68b19417aaf49b379693b96a2a"
+  },
+  {
+    "path": "assets/applications/Capptus-Way-Executive-Diagram.svg",
+    "sha256": "562504000bfaff0c79b855a31e859e70a9e20774b80b9bb19c1e283d5fd48b72"
+  },
+  {
     "path": "assets/applications/workshop-01.png",
     "sha256": "0a861284da95888d381273d5fe67683878980bf076e46ed2c7aba006f1f4ca31"
   },
@@ -42,6 +50,30 @@
   {
     "path": "assets/capptus-way/07-regrowth-optimize-grow.png",
     "sha256": "450ef6543d4625a062d26798ae23c662d716145e6fc48f994f9082b97095f2c6"
+  },
+  {
+    "path": "assets/capptus-way/Capptus-Way-Primary-Blue-Large.png",
+    "sha256": "574868e0dc200203c445fd15189092bad1ecc9092e3711d9a6e384dd54116000"
+  },
+  {
+    "path": "assets/capptus-way/Capptus-Way-Primary-Blue-Large.svg",
+    "sha256": "76a6ab5a42271a10b34abe14c9bbf468439caa286f9905a2a57b74ba42470ace"
+  },
+  {
+    "path": "assets/capptus-way/Capptus-Way-Primary-Blue.png",
+    "sha256": "c8ec95a41b831ab0851f1a1aeb14db2ec25be23644fe2de7dd05142963bf1ce7"
+  },
+  {
+    "path": "assets/capptus-way/Capptus-Way-Primary-Blue.svg",
+    "sha256": "1021726485496275489fe6a111891a58dd65445f457c60e2d59b8d66a6a2bff2"
+  },
+  {
+    "path": "assets/capptus-way/Capptus-Way-Primary-Negative.png",
+    "sha256": "b14694128fd802b95737e98f6c8cc7ad2390db1ea10df776a30c943ea73c6cb9"
+  },
+  {
+    "path": "assets/capptus-way/Capptus-Way-Primary-Negative.svg",
+    "sha256": "69a979af54555f4df61a0e36521b581b700ec3c704735942815cf0fe5381fa66"
   },
   {
     "path": "assets/capptus-way/Capptus-Way-Set.png",
@@ -384,7 +416,19 @@
     "sha256": "6acb4b6e3e251238a38f468dfc55606f04e1243efad56a506e5b346308d77ddf"
   },
   {
+    "path": "downloads/Capptus-Way-Executive-Diagram-Kit.zip",
+    "sha256": "c296cfa9c29b6ccbe655eec5b387429087ebf1d3f7690b70dacf656413af64f2"
+  },
+  {
+    "path": "downloads/Capptus-Way-Executive-Diagram.pptx",
+    "sha256": "7c82a42e0a0778c5251541d5cba2233015c67de453b1d98bbdc599d015ee2f19"
+  },
+  {
     "path": "downloads/Capptus-Way-Icons-v1.zip",
     "sha256": "47318b71a0fb22b78c7318b0e2a16bd0a6b31108bd91769c51f8fa7a5bafc994"
+  },
+  {
+    "path": "downloads/Capptus-Way-Primary-Negative-Kit.zip",
+    "sha256": "eb3e4a1f4530e14b84328bf0bc4697fc7ec9476fe26c7af596cc92a214f83dd3"
   }
 ]

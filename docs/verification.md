@@ -1,5 +1,14 @@
 # Verification record
 
+## Executive diagram and primary logo · October 2, 2026
+
+- The current primary logo and executive diagram lead the showcase; earlier logo proposals remain archived. The asset catalog retains its 41 records.
+- The manifest covers 108 files, including six primary logo exports, two diagram images, two kit ZIPs and the editable slide. New files match their final local source exports byte for byte.
+- Executive PNG/SVG appearance was visually reviewed with outlined Lora and Montserrat. The PPTX has 38 editable text boxes, 11 native connectors and eight embedded images; package structure, geometry and first-party reimport were checked.
+- Native PowerPoint rendering is unverified. The available renderer substituted fonts; install bundled Lora and Montserrat for intended editing appearance.
+- Repository build, generated output, asset hashes, local links and documented text contrast pass. ZIP integrity and whitespace checks pass. The original corporate logo remains unchanged.
+- No new browser interaction or mobile layout verification was performed; the browser-review limitation below still applies.
+
 ## Capptus Way update · October 1, 2026
 
 - Gallery expanded to 41 catalog entries: the original 32, seven Capptus Way illustrations, and two proposed logo designs.

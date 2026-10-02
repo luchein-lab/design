@@ -32,7 +32,7 @@ The starter proposes a 4px spacing base, a 72rem content maximum, square button 
 
 ## Assets
 
-The Capptus Way adds seven editorial line-art PNGs. The first six names and operational stages are user-confirmed; Optimize / Grow is a proposed extension, with Regrowth / Rebrote as a proposed narrative name. The separate Capptus Way logo exploration remains proposed and does not replace the corporate logo. See [stage meanings and usage](capptus-way.md).
+The Capptus Way adds seven editorial line-art PNGs. The first six names and operational stages are user-confirmed; Optimize / Grow is a proposed extension, with Regrowth / Rebrote as a proposed narrative name. The user-selected primary Capptus Way mark uses a side-by-side negative lockup on Capptus blue. Earlier logo explorations are archived; the corporate logo is preserved. See [stage meanings and usage](capptus-way.md).
 
 Scale the logo proportionally and keep surrounding space. Numeric clear-space rules and minimum logo sizes require design-owner approval. Original illustrations are PNG raster assets; the supplied kit adds eight compact SVG interpretations and sixteen interface symbols. Keep full silhouettes visible on light backgrounds. The reference moodboard contains generated landscape concept imagery.
 

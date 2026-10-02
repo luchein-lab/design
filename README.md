@@ -10,13 +10,19 @@ The reference boards and workshop images are archived examples created before th
 
 ## The Capptus Way
 
-![The Capptus Way — seven stages and proposed logo](assets/capptus-way/Capptus-Way-Set.png)
+![The Capptus Way executive methodology diagram](assets/applications/Capptus-Way-Executive-Diagram.png)
 
 **Discover → Design → Build → Integrate → Test / Train → Deploy → Optimize / Grow**
 
 The first six stages use the official Seedling, Budding, Growing, Nurturing, Pruning, and Harvest narrative. The seventh is a proposed extension; **Regrowth / Rebrote** is its proposed narrative name. The set uses black organic linework, open interiors, and restrained blue and sand accents.
 
-The accompanying logo is a proposal for **The Capptus Way**, with Lora + Montserrat; it does not replace the original corporate Capptus logo.
+The selected primary **The Capptus Way** logo is a side-by-side negative lockup, with white lettering and sand accents on Capptus blue. The corporate Capptus logo remains unchanged.
+
+![Primary Capptus Way logo](assets/capptus-way/Capptus-Way-Primary-Blue-Large.png)
+
+[Download the executive diagram kit](downloads/Capptus-Way-Executive-Diagram-Kit.zip) · [Editable PowerPoint slide](downloads/Capptus-Way-Executive-Diagram.pptx) · [Primary logo kit](downloads/Capptus-Way-Primary-Negative-Kit.zip)
+
+PNG and SVG preserve the approved typography. Install Lora and Montserrat to edit the PowerPoint with the intended fonts; native PowerPoint rendering remains unverified.
 
 [Download the complete Capptus Way kit](downloads/Capptus-Way-Icons-v1.zip) · [Stage meanings and usage](docs/capptus-way.md)
 
@@ -26,7 +32,9 @@ The accompanying logo is a proposal for **The Capptus Way**, with Lora + Montser
 | --- | --- |
 | Living Oasis | Creative direction v3 board, palette, and typography study |
 | The Capptus Way | 7 transparent line-art PNGs; 6 official stages + 1 proposed extension |
-| Capptus Way logo exploration | 2 editable SVG designs with PNG exports; proposed |
+| Primary Capptus Way logo | Selected negative lockup; transparent and blue SVG/PNG versions |
+| Executive methodology diagram | 16:9 PNG, SVG and editable PowerPoint with learning loop |
+| Archived Capptus Way logo exploration | 2 earlier SVG designs with PNG exports |
 | Illustration family | 8 unchanged transparent raster illustrations |
 | Compact emojis | 8 editable SVG masters, PNG 128/256 exports, and light tiles |
 | Interface icons | 16 editable SVG masters on a 24px grid |

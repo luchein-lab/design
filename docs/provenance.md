@@ -1,5 +1,11 @@
 # Provenance
 
+## Executive diagram and primary logo · October 2, 2026
+
+The six selected primary logo SVG/PNG exports and their ZIP were copied byte for byte from `output/capptus-way/primary-side-negative-v4/`. The executive PNG, SVG, editable PPTX and kit ZIP were copied byte for byte from `output/capptus-way/executive-diagram-v1/deliverables/`. Builders and unused logo variants are excluded. The user explicitly requested pushing this update to GitHub.
+
+The primary methodology logo follows the user's selected circular seal, side-by-side text placement and negative Capptus-blue treatment. The executive diagram uses the original seven stage illustrations. Six stages remain official; Optimize / Grow and Regrowth / Rebrote remain proposed. The PNG/SVG use true outlined Lora and Montserrat; PowerPoint retains editable text and native connectors. The available presentation renderer substituted fonts, so native PowerPoint appearance remains unverified. The original corporate logo is unchanged.
+
 ## Capptus Way update · October 1, 2026
 
 Seven final transparent PNGs, the review sheet, generation prompts and alpha/dimension records were copied byte for byte from `output/capptus-way/icons-v1/`. Native proposed Capptus Way logo SVGs and PNG exports originated in `output/capptus-way/exploration-v1/logo/`. The seven illustrations were generated using the built-in image tool; the final set and proposed logo sheet were visually reviewed. Reference screenshots informed the style but are not redistributed.

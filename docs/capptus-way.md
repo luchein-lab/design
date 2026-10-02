@@ -20,9 +20,28 @@ Use predominant near-black organic outlines, generous open interiors, and small 
 
 The seven originals are transparent 1254 × 1254 RGBA PNGs. They are raster editorial illustrations for decks, section introductions and documents. Keep their aspect ratios, preserve alpha, and place them on white or limestone. Around 96px or larger is a practical starting point, not a certified minimum. Tiny UI controls need simpler vector glyphs.
 
-## Logo proposal
+## Primary methodology logo
 
-The proposed mark evolves the supplied **The Capptus Way** seal into an open cactus and Baja landscape, with a small blue gesture and sand accent. The horizontal lockup uses Lora Medium 500 and Montserrat SemiBold 600. Native SVG files and PNG exports are included. This is a proposal for The Capptus Way, not an approved replacement for the fixed corporate Capptus logo.
+The user selected the circular cactus landscape and side-by-side negative lockup as the primary **The Capptus Way** mark. White lettering and linework with sand accents sit on Capptus blue #008ED1. This mark leads the methodology family; the original corporate logo is preserved. SVG masters contain outlined lettering and native vector artwork.
+
+- [Primary logo kit](../downloads/Capptus-Way-Primary-Negative-Kit.zip)
+- [Transparent negative SVG master](../assets/capptus-way/Capptus-Way-Primary-Negative.svg)
+- [Transparent PNG](../assets/capptus-way/Capptus-Way-Primary-Negative.png)
+- [Blue SVG](../assets/capptus-way/Capptus-Way-Primary-Blue.svg)
+- [Blue PNG](../assets/capptus-way/Capptus-Way-Primary-Blue.png)
+
+Use the transparent negative artwork on a dark brand surface. Scale proportionally and preserve the supplied spacing. Earlier logo proposals below are retained as archived explorations.
+
+## Executive methodology diagram
+
+The 16:9 composition places the six official stages across an open limestone canvas. A lower continuation band carries the proposed Optimize / Grow extension and returns learning to Discover and Design. The blue header uses the selected primary logo.
+
+- [Complete diagram kit](../downloads/Capptus-Way-Executive-Diagram-Kit.zip)
+- [3840 × 2160 PNG](../assets/applications/Capptus-Way-Executive-Diagram.png)
+- [Self-contained SVG](../assets/applications/Capptus-Way-Executive-Diagram.svg)
+- [Editable PowerPoint slide](../downloads/Capptus-Way-Executive-Diagram.pptx)
+
+PNG and SVG use outlined Lora Medium and Montserrat lettering, preserving the intended appearance without installed fonts. The SVG embeds raster illustrations. PowerPoint text and connectors are editable; install Lora and Montserrat before editing. Package structure and geometry were checked, but the available renderer substituted fonts and native PowerPoint rendering was not verified. The kit includes fonts and their OFL notices.
 
 ## Files
 
