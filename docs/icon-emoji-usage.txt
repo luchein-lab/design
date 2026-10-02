@@ -27,6 +27,15 @@ Negative primary logo: use the blue plate or transparent white/sand master on a 
 Do not place botanical black linework on dark surfaces. Do not add shadows or stretch assets.
 Always write stage meanings and statuses as text; illustrations do not replace labels.
 
+CREATING NEW ICONS
+Use docs/icon-style-master-prompt.md (master-prompt.md inside the kit).
+Regular: ink lines with small blue/sand accents on white or limestone.
+Negative: white lines with sparse sand accents on Capptus blue; open interiors.
+Preserve silhouettes and visual weight. Convert disappearing blue details to white or sand.
+Use industry subjects and clear conceptual metaphors; a cactus is not required in every icon.
+Keep artwork flat: no volume, gradients, shadows, textures or faces.
+The prompt defines future production rules; existing negative icon variants are not implied.
+
 TYPOGRAPHY
 Lora Medium 500 for display; Montserrat 400 body and 500/600 UI.
 The board lettering is outlined and displays without installed fonts.

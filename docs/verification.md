@@ -1,5 +1,13 @@
 # Verification record
 
+## Master prompt and imagery reference cleanup · October 2, 2026
+
+- The chat master prompt is saved with regular and negative guidance and linked from the README, showcase, usage notes, contributor rules and current kit.
+- Current README/HTML examples reference the v2 board, executive diagram and selected primary mark. Older moodboard and workshop images are accessible only through the historical archive.
+- Catalog remains 30 records; artwork is unchanged. Manifest remains 181 files; kit hash is refreshed.
+- Build, generated HTML/CSS, file hashes, links, IDs, labels and documented text contrast pass. Kit integrity, embedded prompt/usage/tokens and all 30 catalog destinations pass.
+- No browser or native presentation rendering verification was added. Existing limitations below apply.
+
 ## Approved icon system v2 replacement · October 2, 2026
 
 - The featured board, hero, active library and primary icon download now use the reviewed v2 set. Active catalog: 30 records, comprising seven Capptus Way illustrations, seven compact icons and sixteen UI symbols.

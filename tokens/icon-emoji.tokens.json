@@ -63,5 +63,34 @@
     "surface": "white-or-limestone",
     "sourceColorLocked": true,
     "count": 7
+  },
+  "creationPrompt": "docs/icon-style-master-prompt.md",
+  "variants": {
+    "regular": {
+      "line": "#1B1B19",
+      "accents": [
+        "#008ED1",
+        "#D8C5AB"
+      ],
+      "surfaces": [
+        "#FFFFFF",
+        "#F8F7F3"
+      ],
+      "interiors": "open-or-transparent"
+    },
+    "negative": {
+      "line": "#FFFFFF",
+      "accent": "#D8C5AB",
+      "surface": "#008ED1",
+      "interiors": "transparent",
+      "blueDetails": "convert-to-white-or-sand"
+    },
+    "preserve": [
+      "silhouette",
+      "proportions",
+      "spacing",
+      "visual-weight"
+    ],
+    "scope": "creation-guidance; existing exports are described by the asset catalog"
   }
 }

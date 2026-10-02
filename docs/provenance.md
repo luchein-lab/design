@@ -1,5 +1,11 @@
 # Provenance
 
+## Master prompt and imagery reference cleanup · October 2, 2026
+
+The user explicitly requested committing the master prompt written in this conversation and replacing remaining references to prior imagery. The prompt is saved in docs/icon-style-master-prompt.md with regular/negative palettes, construction, industry/flow/concept adaptations, and deliverables. Repository-reference links were appended for team use. The kit includes the same prompt and current tokens/usage notes. The icon artwork is unchanged.
+
+The earlier moodboard and four workshop previews are removed from the current README and HTML examples and retained through docs/archive.md. Current application examples use the executive diagram and selected primary negative logo. Creation guidance now points to the current v2 family, including in AGENTS.md and CONTRIBUTING.md. Historical provenance remains an accurate record of earlier source materials.
+
 ## Approved icon system v2 · October 2, 2026
 
 The user reviewed the complete v2 board in this conversation and explicitly requested commit and replacement in GitHub. Seven compact SVG masters and their 32/64/128/256px PNGs, plus sixteen UI SVGs and PNGs, were copied unchanged from `output/capptus-way/icon-system-v2-review/`. The seven existing Capptus Way illustrations are reused unchanged. The board uses the selected primary methodology logo and true outlined Lora/Montserrat; only its review/publication footer was updated for the release. No new visual design was introduced during publication.

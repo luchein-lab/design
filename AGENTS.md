@@ -7,7 +7,8 @@
 - Do not introduce client claims, commercial metrics, or invented endorsements.
 - Update tokens/tokens.json and regenerate styles/tokens.css; do not hand-edit generated CSS.
 - Edit scripts/showcase.mjs and regenerate index.html; do not hand-edit the generated showcase.
-- Preserve the supplied icon/emoji kit and source artwork; keep publication within the user's authorized design scope.
+- Use docs/icon-style-master-prompt.md and the current v2 board for new imagery. Preserve supplied historical artwork as archives; do not feature older imagery as current guidance.
+- Regular: ink outlines, blue/sand accents, light surfaces. Negative: white outlines, sand accents, Capptus-blue surface. Keep silhouettes consistent, flat and organic.
 - Preserve native HTML semantics, visible keyboard focus, and reduced-motion behavior.
 - Run npm run build and npm run check after changing tokens or components.
 - Record material design decisions in docs/foundations.md.

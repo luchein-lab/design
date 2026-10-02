@@ -1,12 +1,12 @@
 # Capptus Design System
 
-The shared showcase for the Capptus work we have created: **The Living Oasis** direction, the illustration family, compact emojis, interface icons, and presentation layouts.
+The shared showcase for the Capptus work we have created: **The Living Oasis** direction, the current Capptus Way illustration family, compact icons, interface symbols, and executive diagram.
 
 ![Capptus icon system v2 — approved illustrations, compact icons and UI symbols](assets/reference/Capptus-Icon-System-v2.png)
 
 [Download the current v2 kit](downloads/Capptus-Icon-System-v2.zip) · [Vector reference board](assets/reference/Capptus-Icon-System-v2.svg)
 
-The original Capptus logo and illustrations are preserved. The compact designs and interface symbols are editable SVG artwork. Typography is approved: **Lora Medium (500)** for h1–h3, highlighted phrases, and quotations, with real **Lora Italic** for one or two emphasized headline words; **Montserrat Regular (400)** for body copy and **Medium (500) / SemiBold (600)** for UI and CTAs. The supporting palette remains proposed.
+The current family uses organic line art, open interiors, and sparse blue/sand accents. The original corporate Capptus logo is preserved. The compact designs and interface symbols are editable SVG artwork. Typography is approved: **Lora Medium (500)** for h1–h3, highlighted phrases, and quotations, with real **Lora Italic** for one or two emphasized headline words; **Montserrat Regular (400)** for body copy and **Medium (500) / SemiBold (600)** for UI and CTAs. The supporting palette remains proposed.
 
 The v2 board and live showcase use the approved pairing. Earlier moodboards and workshop images are archived examples that retain their original typography.
 
@@ -32,38 +32,35 @@ PNG and SVG preserve the approved typography. Install Lora and Montserrat to edi
 
 | Collection | Contents |
 | --- | --- |
-| Living Oasis | Creative direction v3 board, palette, and typography study |
+| Creative direction | Baja warmth, cactus resilience, organic linework and editorial typography |
 | The Capptus Way | 7 transparent line-art PNGs; 6 official stages + 1 proposed extension |
 | Primary Capptus Way logo | Selected negative lockup; transparent and blue SVG/PNG versions |
 | Executive methodology diagram | 16:9 PNG, SVG and editable PowerPoint with learning loop |
 | Compact icon family v2 | 7 native SVG masters; transparent 32/64/128/256px PNG exports |
 | Interface icons v2 | 16 native SVG masters; 24px grid and 2px round strokes |
 | Archived v1 artwork | Earlier illustrations, emojis, interface icons and logo proposals retained separately |
-| In use | 4 selected Revenue OS workshop slide layouts |
+| Creation prompt | Regular + negative rules for industry symbols, flows and abstract concepts |
 | Digital foundations | Token source, CSS components, and accessibility guidance |
 
-## The system in use
+## Creating new icons
 
-![Revenue OS opening layout](assets/applications/workshop-01.png)
+[Read or copy the team master prompt](docs/icon-style-master-prompt.md) to create industry symbols, flowchart concepts, and abstract ideas in the current Capptus style.
 
-![Customer lifecycle layout](assets/applications/workshop-06.png)
+**Regular:** ink #1B1B19 linework with blue #008ED1 and sand #D8C5AB accents, on white or limestone #F8F7F3. **Negative:** white #FFFFFF linework with sparse sand accents, on Capptus blue #008ED1. Preserve the same silhouette, proportions and visual weight across both modes.
 
-The same editorial typography, warm surfaces, blue gestures, and illustration language carry into a working presentation. These are selected design excerpts from the supplied Workshop Cut; client-specific working pages are outside this public showcase.
+Use rounded organic lines, gentle asymmetry and open interiors. Keep artwork flat and readable. The cactus inspires the language; each subject should communicate its own meaning. The downloadable v2 kit includes the prompt.
 
-## Living Oasis direction
-
-![Living Oasis creative direction v3](assets/reference/living-oasis-moodboard-v3.png)
-
-[Download the editable direction board](downloads/Capptus-The-Living-Oasis-Moodboard-v3.svg).
+Earlier moodboards, workshop excerpts and artwork are available in the [historical archive](docs/archive.md); use the current v2 board and executive diagram for new work.
 
 ## Download the assets
 
 - [Current icon system v2 kit ZIP](downloads/Capptus-Icon-System-v2.zip)
 - [Current icon reference sheet](assets/reference/Capptus-Icon-System-v2.svg)
 - [Archived v1 kit and explorations](docs/archive.md)
+- [Master prompt: regular and negative](docs/icon-style-master-prompt.md)
 - [Asset catalog](assets/catalog.json)
-- [Icon and emoji usage notes](docs/icon-emoji-usage.txt)
-- [Icon and emoji tokens](tokens/icon-emoji.tokens.json)
+- [Current icon usage notes](docs/icon-emoji-usage.txt)
+- [Current icon tokens](tokens/icon-emoji.tokens.json)
 - [Foundation tokens](tokens/tokens.json)
 
 ## Preview and use
@@ -87,7 +84,7 @@ Use `styles/tokens.css`, `styles/typography.css`, then `styles/components.css` i
 - `scripts/build.mjs` — generates CSS custom properties and the showcase page.
 - `scripts/showcase.mjs` — editable gallery composition using the asset catalog.
 - `styles/` — generated tokens, reusable components, and gallery layout.
-- `assets/` — original logo, illustration/emoji/icon assets, reference boards, and selected slide layouts.
+- `assets/` — original logo, current illustration/compact/UI assets, and archived reference material.
 - `downloads/` — supplied ZIP and editable reference boards.
 - `docs/foundations.md` — visual rules, accessibility decisions, and open decisions.
 - `docs/provenance.md` — source records and asset hashes.

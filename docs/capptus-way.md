@@ -50,6 +50,7 @@ The reviewed v2 set is approved for GitHub replacement. Seven compact vector int
 - [Current complete v2 kit](../downloads/Capptus-Icon-System-v2.zip)
 - [Current reference board PNG](../assets/reference/Capptus-Icon-System-v2.png)
 - [Current reference board SVG](../assets/reference/Capptus-Icon-System-v2.svg)
+- [Master prompt: regular + negative](icon-style-master-prompt.md)
 - [V2 usage notes](icon-emoji-usage.txt)
 - [Earlier kits and explorations](archive.md)
 

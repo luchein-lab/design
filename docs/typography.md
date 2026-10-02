@@ -34,4 +34,4 @@ El cuerpo usa 16px e interlineado 1.6 como base actual; la galería combina tama
 
 ## Referencias históricas
 
-Los boards, capturas del workshop y archivos originales del kit conservan la tipografía con la que fueron creados. Se presentan como referencias históricas. La página HTML, los componentes y esta documentación reflejan la decisión aprobada.
+El board actual v2 usa Lora y Montserrat con letras convertidas a contornos. Los moodboards anteriores, capturas del workshop y archivos del kit v1 conservan su tipografía original y viven en el [archivo histórico](archive.md). La página HTML, los componentes y el [prompt maestro](icon-style-master-prompt.md) reflejan la decisión aprobada.
