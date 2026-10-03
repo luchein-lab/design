@@ -1,9 +1,16 @@
 # Verification record
 
+## Baja background publication · October 3, 2026
+
+- Five published PNGs match the reviewed generated files byte for byte, each 1672 × 941 pixels. The gallery and README expose all five, usage guidance and the download ZIP.
+- Current files and every downloadable ZIP were checked for superseded application filenames and presentation binaries; none remain. Git history was not rewritten.
+- Build and repository checks pass: generated HTML/CSS, 30 icon catalog records, 184 file hashes, original logo, links, IDs, labels and documented text contrast. All ZIPs pass integrity checks.
+- The background section was reviewed in the local in-app browser at its desktop viewport. The heading, first image row and captions render correctly. Mobile, keyboard and screen-reader behavior were not re-tested for this update. Earlier browser limitations below are historical records.
+
 ## Master prompt and imagery reference cleanup · October 2, 2026
 
 - The chat master prompt is saved with regular and negative guidance and linked from the README, showcase, usage notes, contributor rules and current kit.
-- Current README/HTML examples reference the v2 board, executive diagram and selected primary mark. Older moodboard and workshop images are accessible only through the historical archive.
+- Current README/HTML examples reference the v2 board, executive diagram and selected primary mark. Older moodboard images are accessible only through the historical archive.
 - Catalog remains 30 records; artwork is unchanged. Manifest remains 181 files; kit hash is refreshed.
 - Build, generated HTML/CSS, file hashes, links, IDs, labels and documented text contrast pass. Kit integrity, embedded prompt/usage/tokens and all 30 catalog destinations pass.
 - No browser or native presentation rendering verification was added. Existing limitations below apply.
@@ -16,14 +23,12 @@
 - The manifest covers 181 files. The corporate logo is unchanged. New compact/UI artwork matches reviewed source exports byte for byte.
 - The PNG/SVG board retains the reviewed artwork with its publication footer updated. SVG lettering uses outlined Lora and Montserrat. The board and original 32px proof were visually reviewed.
 - Build, generated output, asset hashes, local links, IDs, labels and documented text contrast pass. Current ZIP integrity and internal catalog destinations pass.
-- Browser interaction and mobile layout remain unverified; the existing browser-policy limitation below applies. Native PowerPoint verification is unchanged.
+- Browser interaction and mobile layout remain unverified; the existing browser-policy limitation below applies.
 
 ## Executive diagram and primary logo · October 2, 2026
 
 - The current primary logo and executive diagram lead the showcase; earlier logo proposals remain archived. The asset catalog retains its 41 records.
-- The manifest covers 108 files, including six primary logo exports, two diagram images, two kit ZIPs and the editable slide. New files match their final local source exports byte for byte.
-- Executive PNG/SVG appearance was visually reviewed with outlined Lora and Montserrat. The PPTX has 38 editable text boxes, 11 native connectors and eight embedded images; package structure, geometry and first-party reimport were checked.
-- Native PowerPoint rendering is unverified. The available renderer substituted fonts; install bundled Lora and Montserrat for intended editing appearance.
+- The manifest covers 108 files, including six primary logo exports, two diagram images, two kit ZIPs. New files match their final local source exports byte for byte.
 - Repository build, generated output, asset hashes, local links and documented text contrast pass. ZIP integrity and whitespace checks pass. The original corporate logo remains unchanged.
 - No new browser interaction or mobile layout verification was performed; the browser-review limitation below still applies.
 
@@ -51,10 +56,6 @@ September 30, 2026 · showcase 0.2.0
 - HTML IDs are unique; field label and description references resolve.
 - Showcase and filter JavaScript syntax checks pass.
 - Documented normal-text pairs exceed 4.5:1 computed contrast: ink/limestone 16.09, muted/limestone 5.42, action/limestone 5.32, white/action 5.70, white/cactus 8.57, ink/sand 10.26, muted/white 5.82.
-
-## Visual source review
-
-The supplied icon/emoji reference sheet and a rendered contact sheet of all 17 workshop pages were reviewed. PDF pages 1, 2, 6, and 15 were selected for their presentation design; client-specific exercises, commercial amounts, and personal working assignments were omitted. The original PDF is unchanged and remains outside the repository.
 
 ## Browser review pending
 
