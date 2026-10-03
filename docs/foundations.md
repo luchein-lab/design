@@ -44,11 +44,15 @@ The current icon kit defines no animation. General components retain the separat
 
 ## Creating new imagery
 
-Use the [team master prompt](icon-style-master-prompt.md) for industry symbols, flowchart concepts and abstract ideas. It is the current creation guidance, together with the reviewed v2 board and selected primary logo. Earlier moodboards and workshop layouts are historical references in the [archive](archive.md).
+Use the [team master prompt](icon-style-master-prompt.md) for industry symbols, flowchart concepts and abstract ideas. It is the current creation guidance, together with the reviewed v2 board and selected primary logo. Earlier moodboards are historical references in the [archive](archive.md).
 
 Regular artwork uses ink #1B1B19 lines, small blue #008ED1 and sand #D8C5AB accents, and open interiors on white or limestone #F8F7F3. Negative artwork uses white #FFFFFF lines with sparse sand accents on Capptus blue, with transparent interiors exposing the surface. Preserve silhouette, proportions, spacing and visual weight across both modes; convert blue details to white or sand when needed for contrast.
 
 Keep shapes flat, organic and slightly asymmetric, with rounded strokes and one dominant idea. Avoid volume, 3D, gradients, grain, textures, shadows, cute faces and clutter. The cactus inspires the drawing language; use subjects appropriate to the concept. Current negative logo masters are supplied; the prompt's negative rules also guide future icon production.
+
+## Photographic backgrounds · October 3, 2026
+
+The separate Baja background collection uses photographic textures, soft natural light and reserved title areas. These rules apply to backgrounds; the flat line-art rules above continue to apply to icons. Use ink titles on the two light images and white titles on the three dark images. Keep headlines within the left half and away from cactus spines or the bright shoreline. Generated scenery is conceptual, not evidence of a specific place.
 
 ## Components and accessibility
 

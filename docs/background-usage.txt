@@ -1,0 +1,31 @@
+CAPPTUS | LIVING OASIS | FIVE SLIDE BACKGROUNDS
+Generated with the built-in image generation tool, 2 October 2026.
+
+Five text-free widescreen PNG backgrounds. Add native slide text and the original Capptus logo separately. Keep the key title between 7% and 52% of slide width and 15% to 65% of slide height. Use Lora Medium for titles and Montserrat for supporting text.
+
+01-dune-and-cardon-light.png
+  Use: Opening slide / light cover
+  Type: Dark title in left 60%
+  Pixels: 1672 x 941
+
+02-blue-hour-resilience-dark.png
+  Use: Section divider / closing slide
+  Type: White title in left 65%
+  Pixels: 1672 x 941
+
+03-cactus-rhythm-green.png
+  Use: AI / technology divider / impact statement
+  Type: White title in left 58%
+  Pixels: 1672 x 941
+
+04-limestone-cactus-shadow.png
+  Use: Light divider / workshop / agenda background
+  Type: Dark title in left 65%
+  Pixels: 1672 x 941
+
+05-tidal-blue-clarity.png
+  Use: Opening / chapter divider / closing slide
+  Type: White title in left 58%
+  Pixels: 1672 x 941
+
+These are generated conceptual scenes inspired by Baja, not documentary photographs of named places. Use dark ink type on 01 and 04; white type on 02, 03 and 05. For long titles on 03, stop before the cactus spines. Preserve the supplied Capptus logo; put it on a small limestone plate when using a dark background.

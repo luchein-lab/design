@@ -8,28 +8,32 @@
     "sha256": "562504000bfaff0c79b855a31e859e70a9e20774b80b9bb19c1e283d5fd48b72"
   },
   {
-    "path": "assets/applications/workshop-01.png",
-    "sha256": "0a861284da95888d381273d5fe67683878980bf076e46ed2c7aba006f1f4ca31"
-  },
-  {
-    "path": "assets/applications/workshop-02.png",
-    "sha256": "9d8c49d31b6b3f3a076640b13a88de9c4e5e6efd2b5a13d108e83af4efa740a9"
-  },
-  {
-    "path": "assets/applications/workshop-06.png",
-    "sha256": "b41173c2c99d323bd4dc4593c290485ae45eed2f1c64b405c5fd9706accfcb5f"
-  },
-  {
-    "path": "assets/applications/workshop-15.png",
-    "sha256": "72df0491e109584d472aeb2a1c541d07bb24d94863ed9f959c0bd06f0e1bb616"
-  },
-  {
     "path": "assets/archive/catalog-v1.json",
     "sha256": "2d8c8dab6269a429294b2d6721edf10517f77ae4fa9f0d6e84f6459f5a72cf5c"
   },
   {
     "path": "assets/archive/icon-emoji.tokens-v1.json",
     "sha256": "6dafab6fe703f2b9aa9751d86319e4bfcd1ed3f34eace7a0d8e4614ba8ea7849"
+  },
+  {
+    "path": "assets/backgrounds/01-dune-and-cardon-light.png",
+    "sha256": "1e80c4674d58b1e5830f0f5a0fef8798233301efd9b93ac0cf2f11f28cbdf4ba"
+  },
+  {
+    "path": "assets/backgrounds/02-blue-hour-resilience-dark.png",
+    "sha256": "5dfd2c5aec62ff2178d49f8da6dc3240da7a2c7af3e2002771c9303510b49a6a"
+  },
+  {
+    "path": "assets/backgrounds/03-cactus-rhythm-green.png",
+    "sha256": "de380728c8e843a03b2cbb53f297cd6d182330aa84f7af64f4af5d15ab76e41f"
+  },
+  {
+    "path": "assets/backgrounds/04-limestone-cactus-shadow.png",
+    "sha256": "d1ecca04a9ab788b02a902531a39590b856e975e24e70cff9c5a20ecbd3ebe61"
+  },
+  {
+    "path": "assets/backgrounds/05-tidal-blue-clarity.png",
+    "sha256": "0c392843e6a5e66698c086fc3611aa4454e5dbf15a6b1b055752a4382c27cfd2"
   },
   {
     "path": "assets/capptus-way/01-seedling-discover.png",
@@ -692,6 +696,18 @@
     "sha256": "61249dbfe50e4a9648f11ec7e2e94585dcec28ddb135ec44dd9acd601540b215"
   },
   {
+    "path": "docs/background-prompts.txt",
+    "sha256": "39f5e8e72e434fcb56c9e87cae1721f38cba3ca63e76d5ac3f185bf9caac440d"
+  },
+  {
+    "path": "docs/background-usage.txt",
+    "sha256": "25b65e3c080293e403abd6e1093ade289458b3420927cca9427aa8080df5a70d"
+  },
+  {
+    "path": "downloads/Capptus-Five-Baja-Backgrounds.zip",
+    "sha256": "14193d1c05db6f1494a52f098c034394ded8de82efeb35077d08ce564abaf918"
+  },
+  {
     "path": "downloads/Capptus-Icon-Emoji-System.svg",
     "sha256": "aee7bca2a5bba3bee2f4c9196525cf96dde1b23f556e220708349882e4cf2e3b"
   },
@@ -709,11 +725,7 @@
   },
   {
     "path": "downloads/Capptus-Way-Executive-Diagram-Kit.zip",
-    "sha256": "c296cfa9c29b6ccbe655eec5b387429087ebf1d3f7690b70dacf656413af64f2"
-  },
-  {
-    "path": "downloads/Capptus-Way-Executive-Diagram.pptx",
-    "sha256": "7c82a42e0a0778c5251541d5cba2233015c67de453b1d98bbdc599d015ee2f19"
+    "sha256": "fe6f31e0660a19e8693370bf36b0530a8e5bc8067701b44712e6c44e13afb23a"
   },
   {
     "path": "downloads/Capptus-Way-Icons-v1.zip",

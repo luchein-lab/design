@@ -39,9 +39,8 @@ The 16:9 composition places the six official stages across an open limestone can
 - [Complete diagram kit](../downloads/Capptus-Way-Executive-Diagram-Kit.zip)
 - [3840 × 2160 PNG](../assets/applications/Capptus-Way-Executive-Diagram.png)
 - [Self-contained SVG](../assets/applications/Capptus-Way-Executive-Diagram.svg)
-- [Editable PowerPoint slide](../downloads/Capptus-Way-Executive-Diagram.pptx)
 
-PNG and SVG use outlined Lora Medium and Montserrat lettering, preserving the intended appearance without installed fonts. The SVG embeds raster illustrations. PowerPoint text and connectors are editable; install Lora and Montserrat before editing. Package structure and geometry were checked, but the available renderer substituted fonts and native PowerPoint rendering was not verified. The kit includes fonts and their OFL notices.
+PNG and SVG use outlined Lora Medium and Montserrat lettering, preserving the intended appearance without installed fonts. The SVG embeds raster illustrations.
 
 ## Current icon system v2
 

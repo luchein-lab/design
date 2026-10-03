@@ -4,10 +4,6 @@ The approved icon system v2 replaces these explorations in the featured board, h
 
 - [Early Living Oasis moodboard PNG](../assets/reference/living-oasis-moodboard-v3.png)
 - [Early Living Oasis moodboard SVG](../downloads/Capptus-The-Living-Oasis-Moodboard-v3.svg)
-- [Historical workshop opening](../assets/applications/workshop-01.png)
-- [Historical workshop question layout](../assets/applications/workshop-02.png)
-- [Historical workshop lifecycle layout](../assets/applications/workshop-06.png)
-- [Historical workshop transition layout](../assets/applications/workshop-15.png)
 - [V1 icon and emoji board](../assets/reference/icon-emoji-system.png)
 - [V1 icon and emoji ZIP](../downloads/Capptus-Icons-Emojis-v1.zip)
 - [V1 editable board](../downloads/Capptus-Icon-Emoji-System.svg)

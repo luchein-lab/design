@@ -8,7 +8,43 @@ The shared showcase for the Capptus work we have created: **The Living Oasis** d
 
 The current family uses organic line art, open interiors, and sparse blue/sand accents. The original corporate Capptus logo is preserved. The compact designs and interface symbols are editable SVG artwork. Typography is approved: **Lora Medium (500)** for h1–h3, highlighted phrases, and quotations, with real **Lora Italic** for one or two emphasized headline words; **Montserrat Regular (400)** for body copy and **Medium (500) / SemiBold (600)** for UI and CTAs. The supporting palette remains proposed.
 
-The v2 board and live showcase use the approved pairing. Earlier moodboards and workshop images are archived examples that retain their original typography.
+The v2 board and live showcase use the approved pairing. Earlier moodboards are archived examples that retain their original typography.
+
+## Baja background collection
+
+Five text-free widescreen PNGs, each 1672 × 941 pixels, with clear space for titles. Generated concept imagery inspired by Baja; these are not documentary photographs of named locations.
+
+[Download all five backgrounds](downloads/Capptus-Five-Baja-Backgrounds.zip) · [Usage notes](docs/background-usage.txt) · [Generation prompts](docs/background-prompts.txt)
+
+### Dune & cardon
+
+![Dune & cardon](assets/backgrounds/01-dune-and-cardon-light.png)
+
+Light cover; dark title on the left.
+
+### Blue-hour desert
+
+![Blue-hour desert](assets/backgrounds/02-blue-hour-resilience-dark.png)
+
+Dark divider or closing; white title on the left.
+
+### Cactus close-up
+
+![Cactus close-up](assets/backgrounds/03-cactus-rhythm-green.png)
+
+Technology introduction; white title before the spines.
+
+### Limestone & shadow
+
+![Limestone & shadow](assets/backgrounds/04-limestone-cactus-shadow.png)
+
+Agenda or light divider; dark title on the left.
+
+### Tidal blue
+
+![Tidal blue](assets/backgrounds/05-tidal-blue-clarity.png)
+
+Cover or closing; white title over the deep water.
 
 ## The Capptus Way
 
@@ -22,9 +58,9 @@ The selected primary **The Capptus Way** logo is a side-by-side negative lockup,
 
 ![Primary Capptus Way logo](assets/capptus-way/Capptus-Way-Primary-Blue-Large.png)
 
-[Download the executive diagram kit](downloads/Capptus-Way-Executive-Diagram-Kit.zip) · [Editable PowerPoint slide](downloads/Capptus-Way-Executive-Diagram.pptx) · [Primary logo kit](downloads/Capptus-Way-Primary-Negative-Kit.zip)
+[Download the executive diagram kit](downloads/Capptus-Way-Executive-Diagram-Kit.zip) · [Primary logo kit](downloads/Capptus-Way-Primary-Negative-Kit.zip)
 
-PNG and SVG preserve the approved typography. Install Lora and Montserrat to edit the PowerPoint with the intended fonts; native PowerPoint rendering remains unverified.
+PNG and SVG preserve the approved typography.
 
 [Download the current icon system v2 kit](downloads/Capptus-Icon-System-v2.zip) · [Stage meanings and usage](docs/capptus-way.md)
 
@@ -32,10 +68,11 @@ PNG and SVG preserve the approved typography. Install Lora and Montserrat to edi
 
 | Collection | Contents |
 | --- | --- |
+| Baja backgrounds | Five widescreen PNGs, two light and three dark, with title space |
 | Creative direction | Baja warmth, cactus resilience, organic linework and editorial typography |
 | The Capptus Way | 7 transparent line-art PNGs; 6 official stages + 1 proposed extension |
 | Primary Capptus Way logo | Selected negative lockup; transparent and blue SVG/PNG versions |
-| Executive methodology diagram | 16:9 PNG, SVG and editable PowerPoint with learning loop |
+| Executive methodology diagram | 16:9 PNG and SVG with learning loop |
 | Compact icon family v2 | 7 native SVG masters; transparent 32/64/128/256px PNG exports |
 | Interface icons v2 | 16 native SVG masters; 24px grid and 2px round strokes |
 | Archived v1 artwork | Earlier illustrations, emojis, interface icons and logo proposals retained separately |
@@ -50,10 +87,11 @@ PNG and SVG preserve the approved typography. Install Lora and Montserrat to edi
 
 Use rounded organic lines, gentle asymmetry and open interiors. Keep artwork flat and readable. The cactus inspires the language; each subject should communicate its own meaning. The downloadable v2 kit includes the prompt.
 
-Earlier moodboards, workshop excerpts and artwork are available in the [historical archive](docs/archive.md); use the current v2 board and executive diagram for new work.
+Earlier moodboards and artwork are available in the [historical archive](docs/archive.md); use the current v2 board and executive diagram for new work.
 
 ## Download the assets
 
+- [Five Baja backgrounds ZIP](downloads/Capptus-Five-Baja-Backgrounds.zip)
 - [Current icon system v2 kit ZIP](downloads/Capptus-Icon-System-v2.zip)
 - [Current icon reference sheet](assets/reference/Capptus-Icon-System-v2.svg)
 - [Archived v1 kit and explorations](docs/archive.md)
